@@ -1,0 +1,101 @@
+{
+  "version": 2,
+  "fileName": "Devil's Night.m4a",
+  "duration": 208.7241723356009,
+  "bpm": 153,
+  "downbeatOffset": 1.6388557611123156,
+  "cueTime": 0.0702283101319234,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 37.71728713366134,
+      "barCount": 23,
+      "msSinceStart": 37717.287
+    },
+    {
+      "phraseId": "lead",
+      "time": 62.81532634934761,
+      "barCount": 39,
+      "msSinceStart": 62815.326
+    },
+    {
+      "phraseId": "quiet",
+      "time": 75.36434595719074,
+      "barCount": 47,
+      "msSinceStart": 75364.346
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 87.91336556503387,
+      "barCount": 55,
+      "msSinceStart": 87913.366
+    },
+    {
+      "phraseId": "bridge",
+      "time": 94.18787536895545,
+      "barCount": 59,
+      "msSinceStart": 94187.875
+    },
+    {
+      "phraseId": "drop",
+      "time": 119.28591458464172,
+      "barCount": 75,
+      "msSinceStart": 119285.915
+    },
+    {
+      "phraseId": "quiet",
+      "time": 131.83493419248487,
+      "barCount": 83,
+      "msSinceStart": 131834.934
+    },
+    {
+      "phraseId": "verse",
+      "time": 144.38395380032802,
+      "barCount": 91,
+      "msSinceStart": 144383.954
+    },
+    {
+      "phraseId": "quiet",
+      "time": 153.79571850621036,
+      "barCount": 97,
+      "msSinceStart": 153795.719
+    },
+    {
+      "phraseId": "bridge",
+      "time": 156.93297340817114,
+      "barCount": 99,
+      "msSinceStart": 156932.973
+    },
+    {
+      "phraseId": "lead",
+      "time": 160.07022831013194,
+      "barCount": 101,
+      "msSinceStart": 160070.228
+    },
+    {
+      "phraseId": "bridge",
+      "time": 163.2074832120927,
+      "barCount": 103,
+      "msSinceStart": 163207.483
+    },
+    {
+      "phraseId": "drop",
+      "time": 172.61924791797506,
+      "barCount": 109,
+      "msSinceStart": 172619.248
+    },
+    {
+      "phraseId": "bridge",
+      "time": 175.75650281993586,
+      "barCount": 111,
+      "msSinceStart": 175756.503
+    },
+    {
+      "phraseId": "drop",
+      "time": 200.85454203562213,
+      "barCount": 127,
+      "msSinceStart": 200854.542
+    }
+  ]
+}

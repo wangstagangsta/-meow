@@ -1,0 +1,131 @@
+{
+  "version": 2,
+  "fileName": "Lake Of Fire.m4a",
+  "duration": 236.843537414966,
+  "bpm": 150,
+  "downbeatOffset": 1.6459856619883144,
+  "cueTime": 0.04606303771920884,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 25.645985661988313,
+      "barCount": 15,
+      "msSinceStart": 25645.986
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 49.64598566198831,
+      "barCount": 30,
+      "msSinceStart": 49645.986
+    },
+    {
+      "phraseId": "bridge",
+      "time": 51.245985661988314,
+      "barCount": 31,
+      "msSinceStart": 51245.986
+    },
+    {
+      "phraseId": "drop",
+      "time": 62.44598566198832,
+      "barCount": 38,
+      "msSinceStart": 62445.986
+    },
+    {
+      "phraseId": "bridge",
+      "time": 64.04598566198833,
+      "barCount": 39,
+      "msSinceStart": 64045.986
+    },
+    {
+      "phraseId": "drop",
+      "time": 73.64598566198832,
+      "barCount": 45,
+      "msSinceStart": 73645.986
+    },
+    {
+      "phraseId": "bridge",
+      "time": 76.84598566198832,
+      "barCount": 47,
+      "msSinceStart": 76845.986
+    },
+    {
+      "phraseId": "drop",
+      "time": 86.44598566198833,
+      "barCount": 53,
+      "msSinceStart": 86445.986
+    },
+    {
+      "phraseId": "bridge",
+      "time": 89.64598566198832,
+      "barCount": 55,
+      "msSinceStart": 89645.986
+    },
+    {
+      "phraseId": "quiet",
+      "time": 115.24598566198833,
+      "barCount": 71,
+      "msSinceStart": 115245.986
+    },
+    {
+      "phraseId": "lead",
+      "time": 147.2459856619883,
+      "barCount": 91,
+      "msSinceStart": 147245.986
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 152.0459856619883,
+      "barCount": 94,
+      "msSinceStart": 152045.986
+    },
+    {
+      "phraseId": "bridge",
+      "time": 153.6459856619883,
+      "barCount": 95,
+      "msSinceStart": 153645.986
+    },
+    {
+      "phraseId": "drop",
+      "time": 179.24598566198833,
+      "barCount": 111,
+      "msSinceStart": 179245.986
+    },
+    {
+      "phraseId": "quiet",
+      "time": 198.44598566198832,
+      "barCount": 123,
+      "msSinceStart": 198445.986
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 203.24598566198833,
+      "barCount": 126,
+      "msSinceStart": 203245.986
+    },
+    {
+      "phraseId": "bridge",
+      "time": 204.84598566198832,
+      "barCount": 127,
+      "msSinceStart": 204845.986
+    },
+    {
+      "phraseId": "drop",
+      "time": 216.0459856619883,
+      "barCount": 134,
+      "msSinceStart": 216045.986
+    },
+    {
+      "phraseId": "bridge",
+      "time": 217.6459856619883,
+      "barCount": 135,
+      "msSinceStart": 217645.986
+    },
+    {
+      "phraseId": "drop",
+      "time": 230.44598566198832,
+      "barCount": 143,
+      "msSinceStart": 230445.986
+    }
+  ]
+}

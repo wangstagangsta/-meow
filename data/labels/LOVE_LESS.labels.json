@@ -1,0 +1,125 @@
+{
+  "version": 2,
+  "fileName": "LOVE_LESS.mp3",
+  "duration": 194.86092970521543,
+  "bpm": 160,
+  "downbeatOffset": 0,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 42,
+      "barCount": 28,
+      "msSinceStart": 42000
+    },
+    {
+      "phraseId": "lead",
+      "time": 54,
+      "barCount": 36,
+      "msSinceStart": 54000
+    },
+    {
+      "phraseId": "verse",
+      "time": 64.5,
+      "barCount": 43,
+      "msSinceStart": 64500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 66,
+      "barCount": 44,
+      "msSinceStart": 66000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 76.5,
+      "barCount": 51,
+      "msSinceStart": 76500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 78,
+      "barCount": 52,
+      "msSinceStart": 78000
+    },
+    {
+      "phraseId": "drop",
+      "time": 88.5,
+      "barCount": 59,
+      "msSinceStart": 88500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 90,
+      "barCount": 60,
+      "msSinceStart": 90000
+    },
+    {
+      "phraseId": "drop",
+      "time": 100.5,
+      "barCount": 67,
+      "msSinceStart": 100500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 102,
+      "barCount": 68,
+      "msSinceStart": 102000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 123,
+      "barCount": 82,
+      "msSinceStart": 123000
+    },
+    {
+      "phraseId": "bridge",
+      "time": 126,
+      "barCount": 84,
+      "msSinceStart": 126000
+    },
+    {
+      "phraseId": "verse",
+      "time": 138,
+      "barCount": 92,
+      "msSinceStart": 138000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 148.5,
+      "barCount": 99,
+      "msSinceStart": 148500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 150,
+      "barCount": 100,
+      "msSinceStart": 150000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 160.5,
+      "barCount": 107,
+      "msSinceStart": 160500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 162,
+      "barCount": 108,
+      "msSinceStart": 162000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 184.875,
+      "barCount": 123,
+      "msSinceStart": 184875
+    },
+    {
+      "phraseId": "bridge",
+      "time": 186,
+      "barCount": 124,
+      "msSinceStart": 186000
+    }
+  ]
+}

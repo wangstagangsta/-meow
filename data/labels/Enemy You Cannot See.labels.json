@@ -1,0 +1,89 @@
+{
+  "version": 2,
+  "fileName": "Enemy You Cannot See.m4a",
+  "duration": 192.02902494331065,
+  "bpm": 150,
+  "downbeatOffset": 1.6485028084833746,
+  "cueTime": 0.04850280848337461,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 50.448502808483376,
+      "barCount": 30,
+      "msSinceStart": 50448.503
+    },
+    {
+      "phraseId": "lead",
+      "time": 76.84850280848337,
+      "barCount": 47,
+      "msSinceStart": 76848.503
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 89.64850280848337,
+      "barCount": 55,
+      "msSinceStart": 89648.503
+    },
+    {
+      "phraseId": "quiet",
+      "time": 92.84850280848337,
+      "barCount": 57,
+      "msSinceStart": 92848.503
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 94.44850280848338,
+      "barCount": 58,
+      "msSinceStart": 94448.503
+    },
+    {
+      "phraseId": "bridge",
+      "time": 96.04850280848338,
+      "barCount": 59,
+      "msSinceStart": 96048.503
+    },
+    {
+      "phraseId": "drop",
+      "time": 118.44850280848338,
+      "barCount": 73,
+      "msSinceStart": 118448.503
+    },
+    {
+      "phraseId": "bridge",
+      "time": 121.64850280848337,
+      "barCount": 75,
+      "msSinceStart": 121648.503
+    },
+    {
+      "phraseId": "quiet",
+      "time": 147.24850280848338,
+      "barCount": 91,
+      "msSinceStart": 147248.503
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 158.4485028084834,
+      "barCount": 98,
+      "msSinceStart": 158448.503
+    },
+    {
+      "phraseId": "bridge",
+      "time": 160.0485028084834,
+      "barCount": 99,
+      "msSinceStart": 160048.503
+    },
+    {
+      "phraseId": "drop",
+      "time": 182.4485028084834,
+      "barCount": 113,
+      "msSinceStart": 182448.503
+    },
+    {
+      "phraseId": "bridge",
+      "time": 185.64850280848339,
+      "barCount": 115,
+      "msSinceStart": 185648.503
+    }
+  ]
+}

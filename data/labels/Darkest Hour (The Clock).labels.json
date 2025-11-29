@@ -1,0 +1,113 @@
+{
+  "version": 2,
+  "fileName": "Darkest Hour (The Clock).m4a",
+  "duration": 241.62684807256235,
+  "bpm": 150,
+  "downbeatOffset": 1.6549797992401842,
+  "cueTime": 0.05622928813256136,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 51.25497979924019,
+      "barCount": 31,
+      "msSinceStart": 51254.98
+    },
+    {
+      "phraseId": "lead",
+      "time": 76.85497979924018,
+      "barCount": 47,
+      "msSinceStart": 76854.98
+    },
+    {
+      "phraseId": "quiet",
+      "time": 89.65497979924018,
+      "barCount": 55,
+      "msSinceStart": 89654.98
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 113.65497979924018,
+      "barCount": 70,
+      "msSinceStart": 113654.98
+    },
+    {
+      "phraseId": "bridge",
+      "time": 115.25497979924019,
+      "barCount": 71,
+      "msSinceStart": 115254.98
+    },
+    {
+      "phraseId": "drop",
+      "time": 126.45497979924019,
+      "barCount": 78,
+      "msSinceStart": 126454.98
+    },
+    {
+      "phraseId": "bridge",
+      "time": 128.0549797992402,
+      "barCount": 79,
+      "msSinceStart": 128054.98
+    },
+    {
+      "phraseId": "drop",
+      "time": 139.25497979924017,
+      "barCount": 86,
+      "msSinceStart": 139254.98
+    },
+    {
+      "phraseId": "bridge",
+      "time": 140.8549797992402,
+      "barCount": 87,
+      "msSinceStart": 140854.98
+    },
+    {
+      "phraseId": "quiet",
+      "time": 166.4549797992402,
+      "barCount": 103,
+      "msSinceStart": 166454.98
+    },
+    {
+      "phraseId": "lead",
+      "time": 179.2549797992402,
+      "barCount": 111,
+      "msSinceStart": 179254.98
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 190.4549797992402,
+      "barCount": 118,
+      "msSinceStart": 190454.98
+    },
+    {
+      "phraseId": "bridge",
+      "time": 192.0549797992402,
+      "barCount": 119,
+      "msSinceStart": 192054.98
+    },
+    {
+      "phraseId": "drop",
+      "time": 198.4549797992402,
+      "barCount": 123,
+      "msSinceStart": 198454.98
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 203.2549797992402,
+      "barCount": 126,
+      "msSinceStart": 203254.98
+    },
+    {
+      "phraseId": "bridge",
+      "time": 204.8549797992402,
+      "barCount": 127,
+      "msSinceStart": 204854.98
+    },
+    {
+      "phraseId": "drop",
+      "time": 230.4549797992402,
+      "barCount": 143,
+      "msSinceStart": 230454.98
+    }
+  ]
+}

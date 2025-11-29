@@ -1,0 +1,131 @@
+{
+  "version": 2,
+  "fileName": "Embrace The Dark.m4a",
+  "duration": 216.804716553288,
+  "bpm": 155,
+  "downbeatOffset": 1.5948265318908332,
+  "cueTime": 88.30450395124566,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 51.14321362866502,
+      "barCount": 32,
+      "msSinceStart": 51143.214
+    },
+    {
+      "phraseId": "lead",
+      "time": 82.1109555641489,
+      "barCount": 52,
+      "msSinceStart": 82110.956
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 86.75611685447147,
+      "barCount": 55,
+      "msSinceStart": 86756.117
+    },
+    {
+      "phraseId": "bridge",
+      "time": 88.30450395124566,
+      "barCount": 56,
+      "msSinceStart": 88304.504
+    },
+    {
+      "phraseId": "drop",
+      "time": 99.14321362866502,
+      "barCount": 63,
+      "msSinceStart": 99143.214
+    },
+    {
+      "phraseId": "bridge",
+      "time": 101.07869749963277,
+      "barCount": 64,
+      "msSinceStart": 101078.697
+    },
+    {
+      "phraseId": "drop",
+      "time": 105.33676201576179,
+      "barCount": 67,
+      "msSinceStart": 105336.762
+    },
+    {
+      "phraseId": "bridge",
+      "time": 113.07869749963277,
+      "barCount": 72,
+      "msSinceStart": 113078.697
+    },
+    {
+      "phraseId": "quiet",
+      "time": 144.04643943511664,
+      "barCount": 92,
+      "msSinceStart": 144046.439
+    },
+    {
+      "phraseId": "lead",
+      "time": 162.62708459640697,
+      "barCount": 104,
+      "msSinceStart": 162627.085
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 168.82063298350374,
+      "barCount": 108,
+      "msSinceStart": 168820.633
+    },
+    {
+      "phraseId": "bridge",
+      "time": 170.36902008027795,
+      "barCount": 109,
+      "msSinceStart": 170369.02
+    },
+    {
+      "phraseId": "drop",
+      "time": 175.0141813706005,
+      "barCount": 112,
+      "msSinceStart": 175014.181
+    },
+    {
+      "phraseId": "bridge",
+      "time": 176.56256846737472,
+      "barCount": 113,
+      "msSinceStart": 176562.568
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 182.36902008027795,
+      "barCount": 116,
+      "msSinceStart": 182369.02
+    },
+    {
+      "phraseId": "bridge",
+      "time": 182.7561168544715,
+      "barCount": 117,
+      "msSinceStart": 182756.117
+    },
+    {
+      "phraseId": "drop",
+      "time": 192.04643943511664,
+      "barCount": 123,
+      "msSinceStart": 192046.439
+    },
+    {
+      "phraseId": "bridge",
+      "time": 195.14321362866502,
+      "barCount": 125,
+      "msSinceStart": 195143.214
+    },
+    {
+      "phraseId": "drop",
+      "time": 201.33676201576182,
+      "barCount": 129,
+      "msSinceStart": 201336.762
+    },
+    {
+      "phraseId": "bridge",
+      "time": 210.62708459640697,
+      "barCount": 135,
+      "msSinceStart": 210627.085
+    }
+  ]
+}
