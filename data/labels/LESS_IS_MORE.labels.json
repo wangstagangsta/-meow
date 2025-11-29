@@ -1,0 +1,119 @@
+{
+  "version": 2,
+  "fileName": "LESS_IS_MORE.mp3",
+  "duration": 263.42308390022674,
+  "bpm": 160,
+  "downbeatOffset": -1.2519897012992303,
+  "cueTime": 159.24854741339024,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 54.24801029870077,
+      "barCount": 37,
+      "msSinceStart": 54248.01
+    },
+    {
+      "phraseId": "lead",
+      "time": 72.24801029870076,
+      "barCount": 49,
+      "msSinceStart": 72248.01
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 78.24801029870076,
+      "barCount": 53,
+      "msSinceStart": 78248.01
+    },
+    {
+      "phraseId": "bridge",
+      "time": 84.24801029870076,
+      "barCount": 57,
+      "msSinceStart": 84248.01
+    },
+    {
+      "phraseId": "drop",
+      "time": 94.74801029870076,
+      "barCount": 64,
+      "msSinceStart": 94748.01
+    },
+    {
+      "phraseId": "bridge",
+      "time": 96.24801029870076,
+      "barCount": 65,
+      "msSinceStart": 96248.01
+    },
+    {
+      "phraseId": "drop",
+      "time": 105.24801029870076,
+      "barCount": 71,
+      "msSinceStart": 105248.01
+    },
+    {
+      "phraseId": "bridge",
+      "time": 111.24801029870076,
+      "barCount": 75,
+      "msSinceStart": 111248.01
+    },
+    {
+      "phraseId": "quiet",
+      "time": 135.24801029870076,
+      "barCount": 91,
+      "msSinceStart": 135248.01
+    },
+    {
+      "phraseId": "lead",
+      "time": 147.24801029870076,
+      "barCount": 99,
+      "msSinceStart": 147248.01
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 157.74801029870076,
+      "barCount": 106,
+      "msSinceStart": 157748.01
+    },
+    {
+      "phraseId": "bridge",
+      "time": 159.24801029870076,
+      "barCount": 107,
+      "msSinceStart": 159248.01
+    },
+    {
+      "phraseId": "drop",
+      "time": 183.24801029870076,
+      "barCount": 123,
+      "msSinceStart": 183248.01
+    },
+    {
+      "phraseId": "quiet",
+      "time": 195.24801029870076,
+      "barCount": 131,
+      "msSinceStart": 195248.01
+    },
+    {
+      "phraseId": "verse",
+      "time": 207.24801029870076,
+      "barCount": 139,
+      "msSinceStart": 207248.01
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 217.74801029870076,
+      "barCount": 146,
+      "msSinceStart": 217748.01
+    },
+    {
+      "phraseId": "bridge",
+      "time": 219.24801029870076,
+      "barCount": 147,
+      "msSinceStart": 219248.01
+    },
+    {
+      "phraseId": "drop",
+      "time": 243.24801029870076,
+      "barCount": 163,
+      "msSinceStart": 243248.01
+    }
+  ]
+}
