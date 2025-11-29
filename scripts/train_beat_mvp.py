@@ -1,8 +1,9 @@
 # train_beat_mvp.py
 
+import argparse
 import json
-import math
-import os
+import random
+from pathlib import Path
 from typing import List, Tuple
 
 import librosa
@@ -200,6 +201,91 @@ def collate_full_tracks(batch):
     return mel_batch, label_batch
 
 
+def discover_label_items(label_dir: str, audio_dir: str) -> List[dict]:
+    """
+    Pair each label json with its corresponding audio file.
+    """
+    label_dir_path = Path(label_dir)
+    audio_dir_path = Path(audio_dir)
+
+    if not label_dir_path.exists():
+        raise FileNotFoundError(f"Label directory not found: {label_dir_path}")
+    if not audio_dir_path.exists():
+        raise FileNotFoundError(f"Audio directory not found: {audio_dir_path}")
+
+    label_files = sorted(label_dir_path.glob("*.labels.json"))
+    if not label_files:
+        raise FileNotFoundError(f"No *.labels.json files found in {label_dir_path}")
+
+    items: List[dict] = []
+    missing_audio = []
+    common_exts = ["", ".mp3", ".m4a", ".wav", ".flac", ".ogg", ".aif", ".aiff"]
+
+    for label_path in label_files:
+        label_data = load_label_json(str(label_path))
+        file_name = label_data.get("fileName")
+
+        candidates = []
+        if file_name:
+            candidates.append(audio_dir_path / file_name)
+
+        base_name = label_path.stem
+        if base_name.endswith(".labels"):
+            base_name = base_name[: -len(".labels")]
+
+        for ext in common_exts:
+            candidate_path = audio_dir_path / f"{base_name}{ext}"
+            if candidate_path not in candidates:
+                candidates.append(candidate_path)
+
+        audio_path = next((path for path in candidates if path.exists()), None)
+
+        if audio_path is None:
+            missing_audio.append((label_path.name, file_name or f"{base_name}.*"))
+            continue
+
+        items.append(
+            {
+                "audio_path": str(audio_path),
+                "label_path": str(label_path),
+            }
+        )
+
+    if missing_audio:
+        print("Warning: Skipping labels with missing audio files:")
+        for label_name, expected in missing_audio:
+            print(f" - {label_name} (expected audio similar to {expected})")
+
+    if not items:
+        raise RuntimeError("No valid label/audio pairs were found.")
+
+    return items
+
+
+def split_train_val_items(
+    items: List[dict], val_count: int
+) -> Tuple[List[dict], List[dict]]:
+    """
+    Split dataset into train/val using the end of the list as validation.
+    """
+    if val_count <= 0:
+        return items, []
+
+    if val_count >= len(items):
+        print(
+            f"Requested val_count={val_count} but only {len(items)} tracks available. "
+            "Reducing validation set so at least one training track remains."
+        )
+        val_count = max(0, len(items) - 1)
+
+    if val_count == 0:
+        return items, []
+
+    train_items = items[:-val_count]
+    val_items = items[-val_count:]
+    return train_items, val_items
+
+
 # ------------------
 # MODEL: Minimal Beat CRNN
 # ------------------
@@ -356,48 +442,96 @@ def train_mvp(
     return model
 
 
-# ------------------
-# MAIN ENTRY (example usage)
-# ------------------
+def parse_args():
+    parser = argparse.ArgumentParser(description="Train the Beat CRNN MVP model.")
+    parser.add_argument(
+        "--labels-dir",
+        type=str,
+        default="data/labels",
+        help="Directory containing *.labels.json files.",
+    )
+    parser.add_argument(
+        "--audio-dir",
+        type=str,
+        default="data/audio",
+        help="Directory containing audio files referenced by the labels.",
+    )
+    parser.add_argument(
+        "--num-epochs",
+        type=int,
+        default=30,
+        help="Number of training epochs.",
+    )
+    parser.add_argument(
+        "--lr",
+        type=float,
+        default=1e-3,
+        help="Learning rate for Adam.",
+    )
+    parser.add_argument(
+        "--val-count",
+        type=int,
+        default=1,
+        help="How many tracks to hold out for validation.",
+    )
+    parser.add_argument(
+        "--shuffle-seed",
+        type=int,
+        default=None,
+        help="Optional seed to shuffle track order before splitting train/val.",
+    )
+    parser.add_argument(
+        "--device",
+        type=str,
+        default=None,
+        help="Force device selection (e.g. cpu, cuda). Defaults to auto-detect.",
+    )
+    parser.add_argument(
+        "--save-path",
+        type=str,
+        default="beat_crnn_mvp.pth",
+        help="Where to store the trained checkpoint.",
+    )
+    parser.add_argument(
+        "--no-save",
+        action="store_true",
+        help="Skip saving the trained checkpoint.",
+    )
+    return parser.parse_args()
 
-if __name__ == "__main__":
-    """
-    Define your 5 songs here.
 
-    Example structure:
-        data/
-          audio/
-            track1.mp3
-            track2.m4a
-          labels/
-            track1.labels.json
-            track2.labels.json
-    """
-    train_items = [
-        {
-            "audio_path": "data/audio/track1.mp3",
-            "label_path": "data/labels/track1.labels.json",
-        },
-        {
-            "audio_path": "data/audio/track2.m4a",
-            "label_path": "data/labels/track2.labels.json",
-        },
-        # add up to 5
-    ]
+def main():
+    args = parse_args()
 
-    # For MVP, you can first:
-    #  - train on [train_items[:1]] to overfit one track
-    #  - then train on all with maybe one as val
+    items = discover_label_items(args.labels_dir, args.audio_dir)
 
-    print("=== Overfitting on 1 track ===")
-    model = train_mvp(train_items=train_items[:1], val_items=None, num_epochs=30)
+    if args.shuffle_seed is not None:
+        random.seed(args.shuffle_seed)
+        random.shuffle(items)
 
-    print("=== Training on all tracks (simple val on last) ===")
+    train_items, val_items = split_train_val_items(items, args.val_count)
+
+    print(f"Found {len(items)} labeled tracks.")
+    print(f"Training set size: {len(train_items)}")
+    if val_items:
+        print(f"Validation set size: {len(val_items)}")
+    else:
+        print("Validation set size: 0 (validation disabled)")
+
     model = train_mvp(
-        train_items=train_items[:-1],
-        val_items=train_items[-1:],
-        num_epochs=30,
+        train_items=train_items,
+        val_items=val_items,
+        num_epochs=args.num_epochs,
+        lr=args.lr,
+        device=args.device,
     )
 
-    # You can save the model if you want:
-    torch.save(model.state_dict(), "beat_crnn_mvp.pth")
+    if not args.no_save and args.save_path:
+        save_path = Path(args.save_path)
+        save_path.parent.mkdir(parents=True, exist_ok=True)
+        torch.save(model.state_dict(), save_path)
+        print(f"Saved checkpoint to {save_path}")
+
+
+if __name__ == "__main__":
+    main()
