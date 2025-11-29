@@ -1,0 +1,173 @@
+{
+  "version": 2,
+  "fileName": "City Lights.mp3",
+  "duration": 237.53571428571428,
+  "bpm": 160,
+  "downbeatOffset": 2.035421672305323,
+  "cueTime": 105.53542167230532,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 36.535421672305326,
+      "barCount": 23,
+      "msSinceStart": 36535.422
+    },
+    {
+      "phraseId": "verse",
+      "time": 48.535421672305326,
+      "barCount": 31,
+      "msSinceStart": 48535.422
+    },
+    {
+      "phraseId": "bridge",
+      "time": 51.535421672305326,
+      "barCount": 33,
+      "msSinceStart": 51535.422
+    },
+    {
+      "phraseId": "lead",
+      "time": 87.53542167230532,
+      "barCount": 57,
+      "msSinceStart": 87535.422
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 99.53542167230532,
+      "barCount": 65,
+      "msSinceStart": 99535.422
+    },
+    {
+      "phraseId": "bridge",
+      "time": 105.53542167230532,
+      "barCount": 69,
+      "msSinceStart": 105535.422
+    },
+    {
+      "phraseId": "drop",
+      "time": 110.03542167230532,
+      "barCount": 72,
+      "msSinceStart": 110035.422
+    },
+    {
+      "phraseId": "bridge",
+      "time": 111.53542167230532,
+      "barCount": 73,
+      "msSinceStart": 111535.422
+    },
+    {
+      "phraseId": "drop",
+      "time": 116.03542167230532,
+      "barCount": 76,
+      "msSinceStart": 116035.422
+    },
+    {
+      "phraseId": "bridge",
+      "time": 117.53542167230532,
+      "barCount": 77,
+      "msSinceStart": 117535.422
+    },
+    {
+      "phraseId": "drop",
+      "time": 122.03542167230532,
+      "barCount": 80,
+      "msSinceStart": 122035.422
+    },
+    {
+      "phraseId": "bridge",
+      "time": 123.53542167230532,
+      "barCount": 81,
+      "msSinceStart": 123535.422
+    },
+    {
+      "phraseId": "drop",
+      "time": 128.03542167230532,
+      "barCount": 84,
+      "msSinceStart": 128035.422
+    },
+    {
+      "phraseId": "bridge",
+      "time": 129.53542167230532,
+      "barCount": 85,
+      "msSinceStart": 129535.422
+    },
+    {
+      "phraseId": "quiet",
+      "time": 141.53542167230532,
+      "barCount": 93,
+      "msSinceStart": 141535.422
+    },
+    {
+      "phraseId": "lead",
+      "time": 165.53542167230532,
+      "barCount": 109,
+      "msSinceStart": 165535.422
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 177.53542167230532,
+      "barCount": 117,
+      "msSinceStart": 177535.422
+    },
+    {
+      "phraseId": "bridge",
+      "time": 183.53542167230532,
+      "barCount": 121,
+      "msSinceStart": 183535.422
+    },
+    {
+      "phraseId": "drop",
+      "time": 188.03542167230532,
+      "barCount": 124,
+      "msSinceStart": 188035.422
+    },
+    {
+      "phraseId": "bridge",
+      "time": 189.53542167230532,
+      "barCount": 125,
+      "msSinceStart": 189535.422
+    },
+    {
+      "phraseId": "drop",
+      "time": 194.03542167230532,
+      "barCount": 128,
+      "msSinceStart": 194035.422
+    },
+    {
+      "phraseId": "bridge",
+      "time": 195.53542167230532,
+      "barCount": 129,
+      "msSinceStart": 195535.422
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 200.03542167230532,
+      "barCount": 132,
+      "msSinceStart": 200035.422
+    },
+    {
+      "phraseId": "bridge",
+      "time": 201.53542167230532,
+      "barCount": 133,
+      "msSinceStart": 201535.422
+    },
+    {
+      "phraseId": "drop",
+      "time": 213.53542167230532,
+      "barCount": 141,
+      "msSinceStart": 213535.422
+    },
+    {
+      "phraseId": "bridge",
+      "time": 216.53542167230532,
+      "barCount": 143,
+      "msSinceStart": 216535.422
+    },
+    {
+      "phraseId": "drop",
+      "time": 225.53542167230532,
+      "barCount": 149,
+      "msSinceStart": 225535.422
+    }
+  ]
+}

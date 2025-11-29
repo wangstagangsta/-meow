@@ -1,0 +1,95 @@
+{
+  "version": 2,
+  "fileName": "BREATH_LESS.mp3",
+  "duration": 192.22621315192742,
+  "bpm": 160,
+  "downbeatOffset": 0,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 15,
+      "barCount": 10,
+      "msSinceStart": 15000
+    },
+    {
+      "phraseId": "verse",
+      "time": 27,
+      "barCount": 18,
+      "msSinceStart": 27000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 37.5,
+      "barCount": 25,
+      "msSinceStart": 37500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 39,
+      "barCount": 26,
+      "msSinceStart": 39000
+    },
+    {
+      "phraseId": "lead",
+      "time": 51,
+      "barCount": 34,
+      "msSinceStart": 51000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 73.5,
+      "barCount": 49,
+      "msSinceStart": 73500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 75,
+      "barCount": 50,
+      "msSinceStart": 75000
+    },
+    {
+      "phraseId": "drop",
+      "time": 97.5,
+      "barCount": 65,
+      "msSinceStart": 97500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 99,
+      "barCount": 66,
+      "msSinceStart": 99000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 126,
+      "barCount": 84,
+      "msSinceStart": 126000
+    },
+    {
+      "phraseId": "verse",
+      "time": 138,
+      "barCount": 92,
+      "msSinceStart": 138000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 160.5,
+      "barCount": 107,
+      "msSinceStart": 160500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 162,
+      "barCount": 108,
+      "msSinceStart": 162000
+    },
+    {
+      "phraseId": "drop",
+      "time": 186,
+      "barCount": 124,
+      "msSinceStart": 186000
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "version": 2,
+  "fileName": "Burn The Evidence.mp3",
+  "duration": 145.5,
+  "bpm": 160,
+  "downbeatOffset": 1.5000507770931542,
+  "cueTime": 66.00005077709315,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 6.000050777093154,
+      "barCount": 3,
+      "msSinceStart": 6000.051
+    },
+    {
+      "phraseId": "verse",
+      "time": 30.000050777093154,
+      "barCount": 19,
+      "msSinceStart": 30000.051
+    },
+    {
+      "phraseId": "quiet",
+      "time": 40.50005077709315,
+      "barCount": 26,
+      "msSinceStart": 40500.051
+    },
+    {
+      "phraseId": "bridge",
+      "time": 42.00005077709315,
+      "barCount": 27,
+      "msSinceStart": 42000.051
+    },
+    {
+      "phraseId": "lead",
+      "time": 53.25005077709315,
+      "barCount": 34,
+      "msSinceStart": 53250.051
+    },
+    {
+      "phraseId": "bridge",
+      "time": 54.00005077709315,
+      "barCount": 35,
+      "msSinceStart": 54000.051
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 64.50005077709315,
+      "barCount": 42,
+      "msSinceStart": 64500.051
+    },
+    {
+      "phraseId": "bridge",
+      "time": 66.00005077709315,
+      "barCount": 43,
+      "msSinceStart": 66000.051
+    },
+    {
+      "phraseId": "drop",
+      "time": 76.50005077709315,
+      "barCount": 50,
+      "msSinceStart": 76500.051
+    },
+    {
+      "phraseId": "bridge",
+      "time": 78.00005077709315,
+      "barCount": 51,
+      "msSinceStart": 78000.051
+    },
+    {
+      "phraseId": "drop",
+      "time": 83.25005077709315,
+      "barCount": 54,
+      "msSinceStart": 83250.051
+    },
+    {
+      "phraseId": "bridge",
+      "time": 84.00005077709315,
+      "barCount": 55,
+      "msSinceStart": 84000.051
+    },
+    {
+      "phraseId": "drop",
+      "time": 88.50005077709315,
+      "barCount": 58,
+      "msSinceStart": 88500.051
+    },
+    {
+      "phraseId": "bridge",
+      "time": 90.00005077709315,
+      "barCount": 59,
+      "msSinceStart": 90000.051
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 100.50005077709315,
+      "barCount": 66,
+      "msSinceStart": 100500.051
+    },
+    {
+      "phraseId": "bridge",
+      "time": 102.00005077709315,
+      "barCount": 67,
+      "msSinceStart": 102000.051
+    },
+    {
+      "phraseId": "lead",
+      "time": 108.00005077709315,
+      "barCount": 71,
+      "msSinceStart": 108000.051
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 112.50005077709315,
+      "barCount": 74,
+      "msSinceStart": 112500.051
+    },
+    {
+      "phraseId": "bridge",
+      "time": 114.00005077709315,
+      "barCount": 75,
+      "msSinceStart": 114000.051
+    },
+    {
+      "phraseId": "drop",
+      "time": 124.50005077709315,
+      "barCount": 82,
+      "msSinceStart": 124500.051
+    },
+    {
+      "phraseId": "bridge",
+      "time": 129.00005077709315,
+      "barCount": 85,
+      "msSinceStart": 129000.051
+    },
+    {
+      "phraseId": "drop",
+      "time": 138.00005077709315,
+      "barCount": 91,
+      "msSinceStart": 138000.051
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "version": 2,
+  "fileName": "Deezl - GHOST.wav",
+  "duration": 192.22645833333334,
+  "bpm": 160,
+  "downbeatOffset": 0,
+  "cueTime": 84,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 3,
+      "barCount": 2,
+      "msSinceStart": 3000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 27,
+      "barCount": 18,
+      "msSinceStart": 27000
+    },
+    {
+      "phraseId": "verse",
+      "time": 39,
+      "barCount": 26,
+      "msSinceStart": 39000
+    },
+    {
+      "phraseId": "bridge",
+      "time": 45,
+      "barCount": 30,
+      "msSinceStart": 45000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 57,
+      "barCount": 38,
+      "msSinceStart": 57000
+    },
+    {
+      "phraseId": "bridge",
+      "time": 60,
+      "barCount": 40,
+      "msSinceStart": 60000
+    },
+    {
+      "phraseId": "drop",
+      "time": 64.5,
+      "barCount": 43,
+      "msSinceStart": 64500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 66,
+      "barCount": 44,
+      "msSinceStart": 66000
+    },
+    {
+      "phraseId": "drop",
+      "time": 69,
+      "barCount": 46,
+      "msSinceStart": 69000
+    },
+    {
+      "phraseId": "bridge",
+      "time": 72,
+      "barCount": 48,
+      "msSinceStart": 72000
+    },
+    {
+      "phraseId": "drop",
+      "time": 76.5,
+      "barCount": 51,
+      "msSinceStart": 76500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 78,
+      "barCount": 52,
+      "msSinceStart": 78000
+    },
+    {
+      "phraseId": "drop",
+      "time": 82.5,
+      "barCount": 55,
+      "msSinceStart": 82500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 84,
+      "barCount": 56,
+      "msSinceStart": 84000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 87,
+      "barCount": 58,
+      "msSinceStart": 87000
+    },
+    {
+      "phraseId": "verse",
+      "time": 111,
+      "barCount": 74,
+      "msSinceStart": 111000
+    },
+    {
+      "phraseId": "lead",
+      "time": 135,
+      "barCount": 90,
+      "msSinceStart": 135000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 147,
+      "barCount": 98,
+      "msSinceStart": 147000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 157.5,
+      "barCount": 105,
+      "msSinceStart": 157500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 159,
+      "barCount": 106,
+      "msSinceStart": 159000
+    },
+    {
+      "phraseId": "drop",
+      "time": 169.5,
+      "barCount": 113,
+      "msSinceStart": 169500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 171,
+      "barCount": 114,
+      "msSinceStart": 171000
+    },
+    {
+      "phraseId": "drop",
+      "time": 183,
+      "barCount": 122,
+      "msSinceStart": 183000
+    }
+  ]
+}

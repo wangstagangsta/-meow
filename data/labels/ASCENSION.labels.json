@@ -1,0 +1,173 @@
+{
+  "version": 2,
+  "fileName": "ASCENSION.mp3",
+  "duration": 210.2645625,
+  "bpm": 160,
+  "downbeatOffset": 0,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 30,
+      "barCount": 20,
+      "msSinceStart": 30000
+    },
+    {
+      "phraseId": "lead",
+      "time": 42,
+      "barCount": 28,
+      "msSinceStart": 42000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 54,
+      "barCount": 36,
+      "msSinceStart": 54000
+    },
+    {
+      "phraseId": "bridge",
+      "time": 60,
+      "barCount": 40,
+      "msSinceStart": 60000
+    },
+    {
+      "phraseId": "drop",
+      "time": 64.5,
+      "barCount": 43,
+      "msSinceStart": 64500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 66,
+      "barCount": 44,
+      "msSinceStart": 66000
+    },
+    {
+      "phraseId": "drop",
+      "time": 70.5,
+      "barCount": 47,
+      "msSinceStart": 70500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 72,
+      "barCount": 48,
+      "msSinceStart": 72000
+    },
+    {
+      "phraseId": "drop",
+      "time": 82.5,
+      "barCount": 55,
+      "msSinceStart": 82500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 87,
+      "barCount": 58,
+      "msSinceStart": 87000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 99,
+      "barCount": 66,
+      "msSinceStart": 99000
+    },
+    {
+      "phraseId": "lead",
+      "time": 111,
+      "barCount": 74,
+      "msSinceStart": 111000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 114,
+      "barCount": 76,
+      "msSinceStart": 114000
+    },
+    {
+      "phraseId": "lead",
+      "time": 126,
+      "barCount": 84,
+      "msSinceStart": 126000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 136.5,
+      "barCount": 91,
+      "msSinceStart": 136500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 138,
+      "barCount": 92,
+      "msSinceStart": 138000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 150,
+      "barCount": 100,
+      "msSinceStart": 150000
+    },
+    {
+      "phraseId": "bridge",
+      "time": 156,
+      "barCount": 104,
+      "msSinceStart": 156000
+    },
+    {
+      "phraseId": "drop",
+      "time": 160.5,
+      "barCount": 107,
+      "msSinceStart": 160500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 162,
+      "barCount": 108,
+      "msSinceStart": 162000
+    },
+    {
+      "phraseId": "drop",
+      "time": 166.5,
+      "barCount": 111,
+      "msSinceStart": 166500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 168,
+      "barCount": 112,
+      "msSinceStart": 168000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 178.5,
+      "barCount": 119,
+      "msSinceStart": 178500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 180,
+      "barCount": 120,
+      "msSinceStart": 180000
+    },
+    {
+      "phraseId": "drop",
+      "time": 192,
+      "barCount": 128,
+      "msSinceStart": 192000
+    },
+    {
+      "phraseId": "bridge",
+      "time": 195,
+      "barCount": 130,
+      "msSinceStart": 195000
+    },
+    {
+      "phraseId": "drop",
+      "time": 204,
+      "barCount": 136,
+      "msSinceStart": 204000
+    }
+  ]
+}

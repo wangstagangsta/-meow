@@ -1,0 +1,137 @@
+{
+  "version": 2,
+  "fileName": "END OF THE STORY.mp3",
+  "duration": 237.28225,
+  "bpm": 160,
+  "downbeatOffset": 0.31448386547318563,
+  "cueTime": 87.31448386547319,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 51.314483865473186,
+      "barCount": 34,
+      "msSinceStart": 51314.484
+    },
+    {
+      "phraseId": "lead",
+      "time": 75.31448386547319,
+      "barCount": 50,
+      "msSinceStart": 75314.484
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 85.81448386547319,
+      "barCount": 57,
+      "msSinceStart": 85814.484
+    },
+    {
+      "phraseId": "bridge",
+      "time": 87.31448386547319,
+      "barCount": 58,
+      "msSinceStart": 87314.484
+    },
+    {
+      "phraseId": "drop",
+      "time": 98.18948386547319,
+      "barCount": 65,
+      "msSinceStart": 98189.484
+    },
+    {
+      "phraseId": "bridge",
+      "time": 99.31448386547319,
+      "barCount": 66,
+      "msSinceStart": 99314.484
+    },
+    {
+      "phraseId": "drop",
+      "time": 108.31448386547319,
+      "barCount": 72,
+      "msSinceStart": 108314.484
+    },
+    {
+      "phraseId": "bridge",
+      "time": 114.31448386547319,
+      "barCount": 76,
+      "msSinceStart": 114314.484
+    },
+    {
+      "phraseId": "quiet",
+      "time": 138.3144838654732,
+      "barCount": 92,
+      "msSinceStart": 138314.484
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 148.8144838654732,
+      "barCount": 99,
+      "msSinceStart": 148814.484
+    },
+    {
+      "phraseId": "bridge",
+      "time": 156.3144838654732,
+      "barCount": 104,
+      "msSinceStart": 156314.484
+    },
+    {
+      "phraseId": "drop",
+      "time": 160.8144838654732,
+      "barCount": 107,
+      "msSinceStart": 160814.484
+    },
+    {
+      "phraseId": "bridge",
+      "time": 162.3144838654732,
+      "barCount": 108,
+      "msSinceStart": 162314.484
+    },
+    {
+      "phraseId": "drop",
+      "time": 165.3144838654732,
+      "barCount": 110,
+      "msSinceStart": 165314.484
+    },
+    {
+      "phraseId": "bridge",
+      "time": 168.3144838654732,
+      "barCount": 112,
+      "msSinceStart": 168314.484
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 178.8144838654732,
+      "barCount": 119,
+      "msSinceStart": 178814.484
+    },
+    {
+      "phraseId": "bridge",
+      "time": 183.3144838654732,
+      "barCount": 122,
+      "msSinceStart": 183314.484
+    },
+    {
+      "phraseId": "drop",
+      "time": 191.1894838654732,
+      "barCount": 127,
+      "msSinceStart": 191189.484
+    },
+    {
+      "phraseId": "bridge",
+      "time": 192.3144838654732,
+      "barCount": 128,
+      "msSinceStart": 192314.484
+    },
+    {
+      "phraseId": "drop",
+      "time": 201.3144838654732,
+      "barCount": 134,
+      "msSinceStart": 201314.484
+    },
+    {
+      "phraseId": "bridge",
+      "time": 204.3144838654732,
+      "barCount": 136,
+      "msSinceStart": 204314.484
+    }
+  ]
+}
