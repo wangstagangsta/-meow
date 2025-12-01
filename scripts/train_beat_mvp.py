@@ -3,6 +3,7 @@
 import argparse
 import json
 import random
+import warnings
 from pathlib import Path
 from typing import List, Tuple
 
@@ -22,6 +23,8 @@ N_MELS = 128
 N_FFT = 2048
 HOP_LENGTH = 512  # ~11.6 ms at 44.1k
 BEAT_TOLERANCE_SEC = 0.03  # +/- 30 ms
+
+_AUDIO_BACKEND_MESSAGE_SHOWN = False
 
 
 # ------------------
@@ -74,7 +77,16 @@ def load_audio_to_mel(audio_path: str):
         frame_times: np.array, shape (T,)
         duration: float (seconds)
     """
-    y, sr = librosa.load(audio_path, sr=TARGET_SR, mono=True)
+    global _AUDIO_BACKEND_MESSAGE_SHOWN
+    with warnings.catch_warnings(record=True) as caught:
+        warnings.simplefilter("always")
+        y, sr = librosa.load(audio_path, sr=TARGET_SR, mono=True)
+    if (
+        not _AUDIO_BACKEND_MESSAGE_SHOWN
+        and any("PySoundFile failed" in str(w.message) for w in caught)
+    ):
+        print("Info: soundfile backend unavailable; librosa is using audioread fallback.")
+        _AUDIO_BACKEND_MESSAGE_SHOWN = True
     duration = len(y) / sr
 
     mel = librosa.feature.melspectrogram(
