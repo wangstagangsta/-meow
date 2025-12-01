@@ -1,0 +1,14 @@
+v1
+SAMPLES = 4
+VAL_COUNT = 1        
+NUM_EPOCHS = 30
+LEARNING_RATE = 1e-3
+notes: barely ok, bpm close but off sometimes
+
+
+v2
+SAMPLES = 15
+VAL_COUNT = 3         
+NUM_EPOCHS = 80
+LEARNING_RATE = 1e-3
+notes: performs perfectly for bpm, offset ahead by 3-5ms. 
