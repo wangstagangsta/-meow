@@ -1,0 +1,83 @@
+{
+  "version": 2,
+  "fileName": "Open Your Mind.m4a",
+  "duration": 174.42829166666667,
+  "bpm": 150,
+  "downbeatOffset": 0.04720508588471686,
+  "cueTime": 78.44720508588472,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 33.64720508588472,
+      "barCount": 21,
+      "msSinceStart": 33647.205
+    },
+    {
+      "phraseId": "bridge",
+      "time": 40.04720508588472,
+      "barCount": 25,
+      "msSinceStart": 40047.205
+    },
+    {
+      "phraseId": "lead",
+      "time": 65.64720508588472,
+      "barCount": 41,
+      "msSinceStart": 65647.205
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 76.84720508588472,
+      "barCount": 48,
+      "msSinceStart": 76847.205
+    },
+    {
+      "phraseId": "bridge",
+      "time": 78.44720508588472,
+      "barCount": 49,
+      "msSinceStart": 78447.205
+    },
+    {
+      "phraseId": "drop",
+      "time": 102.44720508588472,
+      "barCount": 64,
+      "msSinceStart": 102447.205
+    },
+    {
+      "phraseId": "bridge",
+      "time": 116.84720508588472,
+      "barCount": 73,
+      "msSinceStart": 116847.205
+    },
+    {
+      "phraseId": "quiet",
+      "time": 129.6472050858847,
+      "barCount": 81,
+      "msSinceStart": 129647.205
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 139.24720508588473,
+      "barCount": 87,
+      "msSinceStart": 139247.205
+    },
+    {
+      "phraseId": "bridge",
+      "time": 142.44720508588472,
+      "barCount": 89,
+      "msSinceStart": 142447.205
+    },
+    {
+      "phraseId": "drop",
+      "time": 166.44720508588472,
+      "barCount": 104,
+      "msSinceStart": 166447.205
+    },
+    {
+      "phraseId": "bridge",
+      "time": 168.0472050858847,
+      "barCount": 105,
+      "msSinceStart": 168047.205
+    }
+  ]
+}
