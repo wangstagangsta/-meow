@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "fileName": "A fantastic vibration.m4a",
+  "duration": 178.11089583333333,
+  "bpm": 160,
+  "downbeatOffset": 0,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 12,
+      "barCount": 8,
+      "msSinceStart": 12000
+    },
+    {
+      "phraseId": "verse",
+      "time": 25.5,
+      "barCount": 17,
+      "msSinceStart": 25500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 30,
+      "barCount": 20,
+      "msSinceStart": 30000
+    },
+    {
+      "phraseId": "lead",
+      "time": 66,
+      "barCount": 44,
+      "msSinceStart": 66000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 76.5,
+      "barCount": 51,
+      "msSinceStart": 76500
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 78,
+      "barCount": 52,
+      "msSinceStart": 78000
+    },
+    {
+      "phraseId": "drop",
+      "time": 102,
+      "barCount": 68,
+      "msSinceStart": 102000
+    },
+    {
+      "phraseId": "lead",
+      "time": 118.5,
+      "barCount": 79,
+      "msSinceStart": 118500
+    },
+    {
+      "phraseId": "verse",
+      "time": 168,
+      "barCount": 112,
+      "msSinceStart": 168000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 178.11089583333333,
+      "barCount": 119,
+      "msSinceStart": 178111
+    }
+  ]
+}

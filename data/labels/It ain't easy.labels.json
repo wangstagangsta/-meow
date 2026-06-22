@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "It ain't easy.m4a",
+  "duration": 182.70966666666666,
+  "bpm": 155,
+  "downbeatOffset": -0.00012177973903959582,
+  "cueTime": 35.61278144606741,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 12.774071768648053,
+      "barCount": 8,
+      "msSinceStart": 12774
+    },
+    {
+      "phraseId": "verse",
+      "time": 37.1611685428416,
+      "barCount": 24,
+      "msSinceStart": 37161
+    },
+    {
+      "phraseId": "lead",
+      "time": 65.0321362847771,
+      "barCount": 42,
+      "msSinceStart": 65032
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 72.77407176864804,
+      "barCount": 47,
+      "msSinceStart": 72774
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 74.32245886542225,
+      "barCount": 48,
+      "msSinceStart": 74322
+    },
+    {
+      "phraseId": "drop",
+      "time": 99.09665241380935,
+      "barCount": 64,
+      "msSinceStart": 99097
+    },
+    {
+      "phraseId": "bridge",
+      "time": 123.87084596219646,
+      "barCount": 80,
+      "msSinceStart": 123871
+    },
+    {
+      "phraseId": "verse",
+      "time": 136.25794273639,
+      "barCount": 88,
+      "msSinceStart": 136258
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 147.09665241380935,
+      "barCount": 95,
+      "msSinceStart": 147097
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 148.64503951058353,
+      "barCount": 96,
+      "msSinceStart": 148645
+    },
+    {
+      "phraseId": "drop",
+      "time": 174.96762015574484,
+      "barCount": 113,
+      "msSinceStart": 174968
+    },
+    {
+      "phraseId": "quiet",
+      "time": 182.70955563961581,
+      "barCount": 118,
+      "msSinceStart": 182710
+    }
+  ]
+}

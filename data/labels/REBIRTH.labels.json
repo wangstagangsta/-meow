@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "REBIRTH.m4a",
+  "duration": 179.62502083333334,
+  "bpm": 160,
+  "downbeatOffset": 0.002853584289556399,
+  "cueTime": 0.002853584289556421,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 3.0028535842895563,
+      "barCount": 2,
+      "msSinceStart": 3003
+    },
+    {
+      "phraseId": "verse",
+      "time": 39.002853584289554,
+      "barCount": 26,
+      "msSinceStart": 39003
+    },
+    {
+      "phraseId": "lead",
+      "time": 51.002853584289554,
+      "barCount": 34,
+      "msSinceStart": 51003
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 61.502853584289554,
+      "barCount": 41,
+      "msSinceStart": 61503
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 63.002853584289554,
+      "barCount": 42,
+      "msSinceStart": 63003
+    },
+    {
+      "phraseId": "drop",
+      "time": 87.00285358428955,
+      "barCount": 58,
+      "msSinceStart": 87003
+    },
+    {
+      "phraseId": "bridge",
+      "time": 102.00285358428955,
+      "barCount": 68,
+      "msSinceStart": 102003
+    },
+    {
+      "phraseId": "verse",
+      "time": 126.00285358428955,
+      "barCount": 84,
+      "msSinceStart": 126003
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 136.50285358428957,
+      "barCount": 91,
+      "msSinceStart": 136503
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 138.00285358428957,
+      "barCount": 92,
+      "msSinceStart": 138003
+    },
+    {
+      "phraseId": "drop",
+      "time": 162.00285358428957,
+      "barCount": 108,
+      "msSinceStart": 162003
+    },
+    {
+      "phraseId": "quiet",
+      "time": 179.625,
+      "barCount": 120,
+      "msSinceStart": 179625
+    }
+  ]
+}

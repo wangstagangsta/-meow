@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "fileName": "Mess Of My Creation.m4a",
+  "duration": 177.65627083333334,
+  "bpm": 160,
+  "downbeatOffset": 0.7513590812683162,
+  "cueTime": 66.75135908126832,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 6.751359081268316,
+      "barCount": 4,
+      "msSinceStart": 6751
+    },
+    {
+      "phraseId": "verse",
+      "time": 30.751359081268316,
+      "barCount": 20,
+      "msSinceStart": 30751
+    },
+    {
+      "phraseId": "lead",
+      "time": 54.75135908126832,
+      "barCount": 36,
+      "msSinceStart": 54751
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 63.75135908126832,
+      "barCount": 42,
+      "msSinceStart": 63751
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 66.75135908126832,
+      "barCount": 44,
+      "msSinceStart": 66751
+    },
+    {
+      "phraseId": "drop",
+      "time": 90.75135908126832,
+      "barCount": 60,
+      "msSinceStart": 90751
+    },
+    {
+      "phraseId": "bridge",
+      "time": 96.75135908126832,
+      "barCount": 64,
+      "msSinceStart": 96751
+    },
+    {
+      "phraseId": "verse",
+      "time": 123.75135908126832,
+      "barCount": 82,
+      "msSinceStart": 123751
+    },
+    {
+      "phraseId": "lead",
+      "time": 135.7513590812683,
+      "barCount": 90,
+      "msSinceStart": 135751
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 144.7513590812683,
+      "barCount": 96,
+      "msSinceStart": 144751
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 147.7513590812683,
+      "barCount": 98,
+      "msSinceStart": 147751
+    },
+    {
+      "phraseId": "drop",
+      "time": 173.2513590812683,
+      "barCount": 115,
+      "msSinceStart": 173251
+    },
+    {
+      "phraseId": "quiet",
+      "time": 177.65625,
+      "barCount": 118,
+      "msSinceStart": 177656
+    }
+  ]
+}

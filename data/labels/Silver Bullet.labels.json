@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "fileName": "Silver Bullet.m4a",
+  "duration": 182.71733333333333,
+  "bpm": 155,
+  "downbeatOffset": -0.03085635613993365,
+  "cueTime": 61.90462751482781,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 24.74333719224716,
+      "barCount": 16,
+      "msSinceStart": 24743
+    },
+    {
+      "phraseId": "lead",
+      "time": 49.51753074063426,
+      "barCount": 32,
+      "msSinceStart": 49518
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 61.90462751482781,
+      "barCount": 40,
+      "msSinceStart": 61905
+    },
+    {
+      "phraseId": "drop",
+      "time": 86.6788210632149,
+      "barCount": 56,
+      "msSinceStart": 86679
+    },
+    {
+      "phraseId": "bridge",
+      "time": 99.06591783740845,
+      "barCount": 64,
+      "msSinceStart": 99066
+    },
+    {
+      "phraseId": "verse",
+      "time": 111.453014611602,
+      "barCount": 72,
+      "msSinceStart": 111453
+    },
+    {
+      "phraseId": "lead",
+      "time": 123.84011138579555,
+      "barCount": 80,
+      "msSinceStart": 123840
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 136.2272081599891,
+      "barCount": 88,
+      "msSinceStart": 136227
+    },
+    {
+      "phraseId": "drop",
+      "time": 161.0014017083762,
+      "barCount": 104,
+      "msSinceStart": 161001
+    },
+    {
+      "phraseId": "quiet",
+      "time": 182.6788210632149,
+      "barCount": 118,
+      "msSinceStart": 182679
+    }
+  ]
+}

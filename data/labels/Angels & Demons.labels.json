@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "fileName": "Angels & Demons.m4a",
-  "duration": 179.28126984126985,
+  "duration": 179.29866666666666,
   "bpm": 150,
   "downbeatOffset": 1.677828431422042,
   "cueTime": 0.07782843142204184,
@@ -9,69 +9,75 @@
   "phraseMarkers": [
     {
       "phraseId": "quiet",
-      "time": 44.877828431422046,
-      "barCount": 27,
-      "msSinceStart": 44877.828
+      "time": 19.277828431422044,
+      "barCount": 11,
+      "msSinceStart": 19278
     },
     {
       "phraseId": "verse",
       "time": 57.67782843142204,
       "barCount": 35,
-      "msSinceStart": 57677.828
+      "msSinceStart": 57678
     },
     {
       "phraseId": "lead",
       "time": 70.47782843142204,
       "barCount": 43,
-      "msSinceStart": 70477.828
+      "msSinceStart": 70478
     },
     {
       "phraseId": "buildUp",
       "time": 81.67782843142204,
       "barCount": 50,
-      "msSinceStart": 81677.828
+      "msSinceStart": 81678
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "preDropFill",
       "time": 83.27782843142205,
       "barCount": 51,
-      "msSinceStart": 83277.828
+      "msSinceStart": 83278
     },
     {
       "phraseId": "drop",
-      "time": 108.47782843142205,
-      "barCount": 66,
-      "msSinceStart": 108477.828
+      "time": 108.87782843142205,
+      "barCount": 67,
+      "msSinceStart": 108878
     },
     {
       "phraseId": "bridge",
-      "time": 108.87782843142205,
-      "barCount": 67,
-      "msSinceStart": 108877.828
+      "time": 121.67782843142204,
+      "barCount": 75,
+      "msSinceStart": 121678
     },
     {
-      "phraseId": "quiet",
+      "phraseId": "verse",
       "time": 134.47782843142204,
       "barCount": 83,
-      "msSinceStart": 134477.828
+      "msSinceStart": 134478
     },
     {
       "phraseId": "buildUp",
       "time": 145.67782843142203,
       "barCount": 90,
-      "msSinceStart": 145677.828
+      "msSinceStart": 145678
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "preDropFill",
       "time": 147.27782843142202,
       "barCount": 91,
-      "msSinceStart": 147277.828
+      "msSinceStart": 147278
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "drop",
       "time": 172.87782843142205,
       "barCount": 107,
-      "msSinceStart": 172877.828
+      "msSinceStart": 172878
+    },
+    {
+      "phraseId": "quiet",
+      "time": 179.27782843142205,
+      "barCount": 111,
+      "msSinceStart": 179278
     }
   ]
 }

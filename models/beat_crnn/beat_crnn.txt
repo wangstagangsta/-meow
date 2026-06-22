@@ -11,4 +11,5 @@ SAMPLES = 15
 VAL_COUNT = 3         
 NUM_EPOCHS = 80
 LEARNING_RATE = 1e-3
-notes: performs perfectly for bpm, offset ahead by 3-5ms. 
+notes: performs perfectly for bpm, offset ahead/off by 3-5ms. 
+after labeling more tracks, sometimes offset is off but bpm never wrong

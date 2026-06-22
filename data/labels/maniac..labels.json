@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "maniac..m4a",
+  "duration": 182.2058125,
+  "bpm": 153,
+  "downbeatOffset": 0.19707409980614693,
+  "cueTime": 0.19707409980614693,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "verse",
+      "time": 44.118642727257125,
+      "barCount": 28,
+      "msSinceStart": 44119
+    },
+    {
+      "phraseId": "lead",
+      "time": 56.66766233510026,
+      "barCount": 36,
+      "msSinceStart": 56668
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 67.64805449196301,
+      "barCount": 43,
+      "msSinceStart": 67648
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 69.2166819429434,
+      "barCount": 44,
+      "msSinceStart": 69217
+    },
+    {
+      "phraseId": "drop",
+      "time": 94.31472115862967,
+      "barCount": 60,
+      "msSinceStart": 94315
+    },
+    {
+      "phraseId": "bridge",
+      "time": 100.58923096255124,
+      "barCount": 64,
+      "msSinceStart": 100589
+    },
+    {
+      "phraseId": "verse",
+      "time": 125.68727017823751,
+      "barCount": 80,
+      "msSinceStart": 125687
+    },
+    {
+      "phraseId": "lead",
+      "time": 144.51079959000222,
+      "barCount": 92,
+      "msSinceStart": 144511
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 149.2166819429434,
+      "barCount": 95,
+      "msSinceStart": 149217
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 150.7853093939238,
+      "barCount": 96,
+      "msSinceStart": 150785
+    },
+    {
+      "phraseId": "drop",
+      "time": 175.88334860961007,
+      "barCount": 112,
+      "msSinceStart": 175883
+    },
+    {
+      "phraseId": "quiet",
+      "time": 182.15785841353164,
+      "barCount": 116,
+      "msSinceStart": 182158
+    }
+  ]
+}

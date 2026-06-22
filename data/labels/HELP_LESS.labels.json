@@ -1,7 +1,7 @@
 {
-  "version": 2,
-  "fileName": "HELP_LESS.mp3",
-  "duration": 187.87501133786847,
+  "version": 3,
+  "fileName": "HELP_LESS.m4a",
+  "duration": 187.87502083333334,
   "bpm": 160,
   "downbeatOffset": 0,
   "cueTime": 0,
@@ -9,15 +9,15 @@
   "phraseMarkers": [
     {
       "phraseId": "quiet",
+      "time": 3,
+      "barCount": 2,
+      "msSinceStart": 3000
+    },
+    {
+      "phraseId": "verse",
       "time": 27,
       "barCount": 18,
       "msSinceStart": 27000
-    },
-    {
-      "phraseId": "buildUp",
-      "time": 39,
-      "barCount": 26,
-      "msSinceStart": 39000
     },
     {
       "phraseId": "buildUp",
@@ -26,34 +26,10 @@
       "msSinceStart": 43500
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "preDropFill",
       "time": 45,
       "barCount": 30,
       "msSinceStart": 45000
-    },
-    {
-      "phraseId": "drop",
-      "time": 55.5,
-      "barCount": 37,
-      "msSinceStart": 55500
-    },
-    {
-      "phraseId": "bridge",
-      "time": 57,
-      "barCount": 38,
-      "msSinceStart": 57000
-    },
-    {
-      "phraseId": "drop",
-      "time": 67.5,
-      "barCount": 45,
-      "msSinceStart": 67500
-    },
-    {
-      "phraseId": "bridge",
-      "time": 69,
-      "barCount": 46,
-      "msSinceStart": 69000
     },
     {
       "phraseId": "drop",
@@ -68,7 +44,13 @@
       "msSinceStart": 87000
     },
     {
-      "phraseId": "quiet",
+      "phraseId": "verse",
+      "time": 99,
+      "barCount": 66,
+      "msSinceStart": 99000
+    },
+    {
+      "phraseId": "lead",
       "time": 111,
       "barCount": 74,
       "msSinceStart": 111000
@@ -86,40 +68,22 @@
       "msSinceStart": 133500
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "preDropFill",
       "time": 135,
       "barCount": 90,
       "msSinceStart": 135000
     },
     {
       "phraseId": "drop",
-      "time": 145.5,
-      "barCount": 97,
-      "msSinceStart": 145500
-    },
-    {
-      "phraseId": "bridge",
-      "time": 147,
-      "barCount": 98,
-      "msSinceStart": 147000
-    },
-    {
-      "phraseId": "drop",
-      "time": 157.5,
-      "barCount": 105,
-      "msSinceStart": 157500
-    },
-    {
-      "phraseId": "bridge",
-      "time": 159,
-      "barCount": 106,
-      "msSinceStart": 159000
-    },
-    {
-      "phraseId": "drop",
       "time": 169.5,
       "barCount": 113,
       "msSinceStart": 169500
+    },
+    {
+      "phraseId": "quiet",
+      "time": 187.875,
+      "barCount": 125,
+      "msSinceStart": 187875
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "version": 2,
-  "fileName": "The Sky.mp3",
-  "duration": 164.62501133786847,
+  "version": 3,
+  "fileName": "The Sky.m4a",
+  "duration": 164.62502083333334,
   "bpm": 160,
   "downbeatOffset": -1.5004215017310472,
   "cueTime": 59.99957849826895,
@@ -9,105 +9,87 @@
   "phraseMarkers": [
     {
       "phraseId": "quiet",
+      "time": 2.999578498268953,
+      "barCount": 3,
+      "msSinceStart": 3000
+    },
+    {
+      "phraseId": "verse",
       "time": 35.99957849826895,
       "barCount": 25,
-      "msSinceStart": 35999.578
+      "msSinceStart": 36000
     },
     {
       "phraseId": "lead",
       "time": 47.99957849826895,
       "barCount": 33,
-      "msSinceStart": 47999.578
+      "msSinceStart": 48000
     },
     {
       "phraseId": "buildUp",
       "time": 58.49957849826895,
       "barCount": 40,
-      "msSinceStart": 58499.578
+      "msSinceStart": 58500
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "preDropFill",
       "time": 59.99957849826895,
       "barCount": 41,
-      "msSinceStart": 59999.578
-    },
-    {
-      "phraseId": "drop",
-      "time": 71.99957849826896,
-      "barCount": 49,
-      "msSinceStart": 71999.578
-    },
-    {
-      "phraseId": "bridge",
-      "time": 74.99957849826896,
-      "barCount": 51,
-      "msSinceStart": 74999.578
+      "msSinceStart": 60000
     },
     {
       "phraseId": "drop",
       "time": 83.99957849826896,
       "barCount": 57,
-      "msSinceStart": 83999.578
+      "msSinceStart": 84000
     },
     {
       "phraseId": "bridge",
       "time": 86.99957849826896,
       "barCount": 59,
-      "msSinceStart": 86999.578
+      "msSinceStart": 87000
     },
     {
-      "phraseId": "quiet",
-      "time": 97.49957849826896,
-      "barCount": 66,
-      "msSinceStart": 97499.578
-    },
-    {
-      "phraseId": "bridge",
+      "phraseId": "verse",
       "time": 98.99957849826896,
       "barCount": 67,
-      "msSinceStart": 98999.578
+      "msSinceStart": 99000
     },
     {
       "phraseId": "lead",
       "time": 110.99957849826896,
       "barCount": 75,
-      "msSinceStart": 110999.578
+      "msSinceStart": 111000
     },
     {
-      "phraseId": "quiet",
+      "phraseId": "bridge",
       "time": 122.99957849826896,
       "barCount": 83,
-      "msSinceStart": 122999.578
+      "msSinceStart": 123000
     },
     {
       "phraseId": "buildUp",
       "time": 133.49957849826896,
       "barCount": 90,
-      "msSinceStart": 133499.578
+      "msSinceStart": 133500
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "preDropFill",
       "time": 134.99957849826896,
       "barCount": 91,
-      "msSinceStart": 134999.578
-    },
-    {
-      "phraseId": "drop",
-      "time": 146.99957849826896,
-      "barCount": 99,
-      "msSinceStart": 146999.578
-    },
-    {
-      "phraseId": "bridge",
-      "time": 149.99957849826896,
-      "barCount": 101,
-      "msSinceStart": 149999.578
+      "msSinceStart": 135000
     },
     {
       "phraseId": "drop",
       "time": 158.99957849826896,
       "barCount": 107,
-      "msSinceStart": 158999.578
+      "msSinceStart": 159000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 164.62457849826896,
+      "barCount": 111,
+      "msSinceStart": 164625
     }
   ]
 }

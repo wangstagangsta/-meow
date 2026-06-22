@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "fileName": "From Star To Stardust.m4a",
+  "duration": 175.7419375,
+  "bpm": 155,
+  "downbeatOffset": -0.7724746771730437,
+  "cueTime": 68.90494467766567,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 13.163009193794698,
+      "barCount": 9,
+      "msSinceStart": 13163
+    },
+    {
+      "phraseId": "verse",
+      "time": 25.550105967988245,
+      "barCount": 17,
+      "msSinceStart": 25550
+    },
+    {
+      "phraseId": "bridge",
+      "time": 31.74365435508502,
+      "barCount": 21,
+      "msSinceStart": 31744
+    },
+    {
+      "phraseId": "lead",
+      "time": 56.517847903472116,
+      "barCount": 37,
+      "msSinceStart": 56518
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 67.35655758089146,
+      "barCount": 44,
+      "msSinceStart": 67357
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 68.90494467766567,
+      "barCount": 45,
+      "msSinceStart": 68905
+    },
+    {
+      "phraseId": "drop",
+      "time": 93.67913822605277,
+      "barCount": 61,
+      "msSinceStart": 93679
+    },
+    {
+      "phraseId": "bridge",
+      "time": 106.06623500024631,
+      "barCount": 69,
+      "msSinceStart": 106066
+    },
+    {
+      "phraseId": "verse",
+      "time": 118.45333177443985,
+      "barCount": 77,
+      "msSinceStart": 118453
+    },
+    {
+      "phraseId": "bridge",
+      "time": 123.09849306476244,
+      "barCount": 80,
+      "msSinceStart": 123098
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 133.9372027421818,
+      "barCount": 87,
+      "msSinceStart": 133937
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 135.48558983895597,
+      "barCount": 88,
+      "msSinceStart": 135486
+    },
+    {
+      "phraseId": "drop",
+      "time": 160.25978338734308,
+      "barCount": 104,
+      "msSinceStart": 160260
+    },
+    {
+      "phraseId": "quiet",
+      "time": 175.7419375,
+      "barCount": 114,
+      "msSinceStart": 175742
+    }
+  ]
+}

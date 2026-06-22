@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "fileName": "Break The Glass.m4a",
+  "duration": 161.984,
+  "bpm": 160,
+  "downbeatOffset": 0.022105585762296237,
+  "cueTime": 54.0221055857623,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 6.022105585762296,
+      "barCount": 4,
+      "msSinceStart": 6022
+    },
+    {
+      "phraseId": "verse",
+      "time": 30.022105585762297,
+      "barCount": 20,
+      "msSinceStart": 30022
+    },
+    {
+      "phraseId": "lead",
+      "time": 42.0221055857623,
+      "barCount": 28,
+      "msSinceStart": 42022
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 52.5221055857623,
+      "barCount": 35,
+      "msSinceStart": 52522
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 54.0221055857623,
+      "barCount": 36,
+      "msSinceStart": 54022
+    },
+    {
+      "phraseId": "drop",
+      "time": 78.02210558576229,
+      "barCount": 52,
+      "msSinceStart": 78022
+    },
+    {
+      "phraseId": "bridge",
+      "time": 84.02210558576229,
+      "barCount": 56,
+      "msSinceStart": 84022
+    },
+    {
+      "phraseId": "verse",
+      "time": 108.02210558576229,
+      "barCount": 72,
+      "msSinceStart": 108022
+    },
+    {
+      "phraseId": "lead",
+      "time": 120.02210558576229,
+      "barCount": 80,
+      "msSinceStart": 120022
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 130.5221055857623,
+      "barCount": 87,
+      "msSinceStart": 130522
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 132.0221055857623,
+      "barCount": 88,
+      "msSinceStart": 132022
+    },
+    {
+      "phraseId": "drop",
+      "time": 156.0221055857623,
+      "barCount": 104,
+      "msSinceStart": 156022
+    },
+    {
+      "phraseId": "quiet",
+      "time": 161.984,
+      "barCount": 108,
+      "msSinceStart": 161984
+    }
+  ]
+}

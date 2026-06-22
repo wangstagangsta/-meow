@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "fileName": "I am a fighter.m4a",
+  "duration": 219.288125,
+  "bpm": 155,
+  "downbeatOffset": 0.0003582511094571382,
+  "cueTime": 99.09713244465784,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 12.387455025303005,
+      "barCount": 8,
+      "msSinceStart": 12387
+    },
+    {
+      "phraseId": "verse",
+      "time": 61.935842122077204,
+      "barCount": 40,
+      "msSinceStart": 61936
+    },
+    {
+      "phraseId": "lead",
+      "time": 74.32293889627074,
+      "barCount": 48,
+      "msSinceStart": 74323
+    },
+    {
+      "phraseId": "verse",
+      "time": 92.90358405756108,
+      "barCount": 60,
+      "msSinceStart": 92904
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 97.54874534788365,
+      "barCount": 63,
+      "msSinceStart": 97549
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 99.09713244465784,
+      "barCount": 64,
+      "msSinceStart": 99097
+    },
+    {
+      "phraseId": "drop",
+      "time": 123.87132599304495,
+      "barCount": 80,
+      "msSinceStart": 123871
+    },
+    {
+      "phraseId": "bridge",
+      "time": 126.96810018659333,
+      "barCount": 82,
+      "msSinceStart": 126968
+    },
+    {
+      "phraseId": "verse",
+      "time": 170.32293889627073,
+      "barCount": 110,
+      "msSinceStart": 170323
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 174.96810018659332,
+      "barCount": 113,
+      "msSinceStart": 174968
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 176.5164872833675,
+      "barCount": 114,
+      "msSinceStart": 176516
+    },
+    {
+      "phraseId": "drop",
+      "time": 201.2906808317546,
+      "barCount": 130,
+      "msSinceStart": 201291
+    },
+    {
+      "phraseId": "quiet",
+      "time": 219.09713244465783,
+      "barCount": 142,
+      "msSinceStart": 219097
+    }
+  ]
+}

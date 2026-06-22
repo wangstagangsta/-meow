@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "fileName": "Burst Of Light.m4a",
+  "duration": 213.99997916666666,
+  "bpm": 155,
+  "downbeatOffset": -0.015806379014109972,
+  "cueTime": 49.532580717760084,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 6.177742008082664,
+      "barCount": 4,
+      "msSinceStart": 6178
+    },
+    {
+      "phraseId": "verse",
+      "time": 30.951935556469763,
+      "barCount": 20,
+      "msSinceStart": 30952
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 40.24225813711492,
+      "barCount": 26,
+      "msSinceStart": 40242
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 49.532580717760084,
+      "barCount": 32,
+      "msSinceStart": 49533
+    },
+    {
+      "phraseId": "drop",
+      "time": 74.30677426614717,
+      "barCount": 48,
+      "msSinceStart": 74307
+    },
+    {
+      "phraseId": "verse",
+      "time": 99.08096781453428,
+      "barCount": 64,
+      "msSinceStart": 99081
+    },
+    {
+      "phraseId": "lead",
+      "time": 111.46806458872783,
+      "barCount": 72,
+      "msSinceStart": 111468
+    },
+    {
+      "phraseId": "bridge",
+      "time": 117.6616129758246,
+      "barCount": 76,
+      "msSinceStart": 117662
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 122.30677426614717,
+      "barCount": 79,
+      "msSinceStart": 122307
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 123.85516136292138,
+      "barCount": 80,
+      "msSinceStart": 123855
+    },
+    {
+      "phraseId": "drop",
+      "time": 150.17774200808265,
+      "barCount": 97,
+      "msSinceStart": 150178
+    },
+    {
+      "phraseId": "verse",
+      "time": 168.75838716937298,
+      "barCount": 109,
+      "msSinceStart": 168758
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 173.40354845969554,
+      "barCount": 112,
+      "msSinceStart": 173404
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 174.95193555646975,
+      "barCount": 113,
+      "msSinceStart": 174952
+    },
+    {
+      "phraseId": "drop",
+      "time": 199.72612910485685,
+      "barCount": 129,
+      "msSinceStart": 199726
+    },
+    {
+      "phraseId": "quiet",
+      "time": 213.99997916666666,
+      "barCount": 138,
+      "msSinceStart": 214000
+    }
+  ]
+}

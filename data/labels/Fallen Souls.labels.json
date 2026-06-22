@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "fileName": "Fallen Souls.m4a",
-  "duration": 211.23192743764173,
+  "duration": 211.2464375,
   "bpm": 150,
   "downbeatOffset": 1.6537158895796622,
   "cueTime": 0.05371588957966216,
@@ -9,63 +9,75 @@
   "phraseMarkers": [
     {
       "phraseId": "quiet",
+      "time": 6.453715889579663,
+      "barCount": 3,
+      "msSinceStart": 6454
+    },
+    {
+      "phraseId": "verse",
       "time": 41.653715889579665,
       "barCount": 25,
-      "msSinceStart": 41653.716
+      "msSinceStart": 41654
     },
     {
       "phraseId": "lead",
       "time": 73.65371588957966,
       "barCount": 45,
-      "msSinceStart": 73653.716
+      "msSinceStart": 73654
     },
     {
       "phraseId": "buildUp",
       "time": 84.85371588957966,
       "barCount": 52,
-      "msSinceStart": 84853.716
+      "msSinceStart": 84854
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "preDropFill",
       "time": 86.45371588957967,
       "barCount": 53,
-      "msSinceStart": 86453.716
+      "msSinceStart": 86454
     },
     {
       "phraseId": "drop",
       "time": 118.45371588957967,
       "barCount": 73,
-      "msSinceStart": 118453.716
+      "msSinceStart": 118454
     },
     {
-      "phraseId": "quiet",
-      "time": 150.45371588957968,
-      "barCount": 93,
-      "msSinceStart": 150453.716
+      "phraseId": "bridge",
+      "time": 131.25371588957967,
+      "barCount": 81,
+      "msSinceStart": 131254
     },
     {
       "phraseId": "verse",
       "time": 163.2537158895797,
       "barCount": 101,
-      "msSinceStart": 163253.716
+      "msSinceStart": 163254
     },
     {
       "phraseId": "buildUp",
       "time": 168.05371588957968,
       "barCount": 104,
-      "msSinceStart": 168053.716
+      "msSinceStart": 168054
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "preDropFill",
       "time": 169.65371588957967,
       "barCount": 105,
-      "msSinceStart": 169653.716
+      "msSinceStart": 169654
     },
     {
       "phraseId": "drop",
-      "time": 200.05371588957968,
-      "barCount": 124,
-      "msSinceStart": 200053.716
+      "time": 201.65371588957967,
+      "barCount": 125,
+      "msSinceStart": 201654
+    },
+    {
+      "phraseId": "quiet",
+      "time": 210.45371588957968,
+      "barCount": 131,
+      "msSinceStart": 210454
     }
   ]
 }

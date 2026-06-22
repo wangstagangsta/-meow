@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "fileName": "STRUGGLING.m4a",
+  "duration": 212.34504166666667,
+  "bpm": 172,
+  "downbeatOffset": 0.000013786252128444865,
+  "cueTime": 173.02326960020562,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "verse",
+      "time": 11.162804483926548,
+      "barCount": 8,
+      "msSinceStart": 11163
+    },
+    {
+      "phraseId": "lead",
+      "time": 22.325595181600967,
+      "barCount": 16,
+      "msSinceStart": 22326
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 43.255827739740496,
+      "barCount": 31,
+      "msSinceStart": 43256
+    },
+    {
+      "phraseId": "verse",
+      "time": 89.30233936764748,
+      "barCount": 64,
+      "msSinceStart": 89302
+    },
+    {
+      "phraseId": "bridge",
+      "time": 96.279083553694,
+      "barCount": 69,
+      "msSinceStart": 96279
+    },
+    {
+      "phraseId": "verse",
+      "time": 139.53489750718236,
+      "barCount": 100,
+      "msSinceStart": 139535
+    },
+    {
+      "phraseId": "lead",
+      "time": 150.6976882048568,
+      "barCount": 108,
+      "msSinceStart": 150698
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 171.62792076299633,
+      "barCount": 123,
+      "msSinceStart": 171628
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 173.02326960020562,
+      "barCount": 124,
+      "msSinceStart": 173023
+    },
+    {
+      "phraseId": "drop",
+      "time": 206.51164169322888,
+      "barCount": 148,
+      "msSinceStart": 206512
+    },
+    {
+      "phraseId": "quiet",
+      "time": 212.34504166666667,
+      "barCount": 152,
+      "msSinceStart": 212345
+    }
+  ]
+}

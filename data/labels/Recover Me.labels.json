@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "Recover Me.m4a",
+  "duration": 173.2673125,
+  "bpm": 160,
+  "downbeatOffset": 0.4244251466374301,
+  "cueTime": 54.42442514663743,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 12.42442514663743,
+      "barCount": 8,
+      "msSinceStart": 12424
+    },
+    {
+      "phraseId": "verse",
+      "time": 24.42442514663743,
+      "barCount": 16,
+      "msSinceStart": 24424
+    },
+    {
+      "phraseId": "lead",
+      "time": 42.42442514663743,
+      "barCount": 28,
+      "msSinceStart": 42424
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 52.92442514663743,
+      "barCount": 35,
+      "msSinceStart": 52924
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 54.42442514663743,
+      "barCount": 36,
+      "msSinceStart": 54424
+    },
+    {
+      "phraseId": "drop",
+      "time": 78.42442514663743,
+      "barCount": 52,
+      "msSinceStart": 78424
+    },
+    {
+      "phraseId": "bridge",
+      "time": 84.42442514663743,
+      "barCount": 56,
+      "msSinceStart": 84424
+    },
+    {
+      "phraseId": "verse",
+      "time": 109.92442514663743,
+      "barCount": 73,
+      "msSinceStart": 109924
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 120.42442514663743,
+      "barCount": 80,
+      "msSinceStart": 120424
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 124.92442514663743,
+      "barCount": 83,
+      "msSinceStart": 124924
+    },
+    {
+      "phraseId": "drop",
+      "time": 157.92442514663742,
+      "barCount": 105,
+      "msSinceStart": 157924
+    },
+    {
+      "phraseId": "quiet",
+      "time": 173.2673125,
+      "barCount": 115,
+      "msSinceStart": 173267
+    }
+  ]
+}

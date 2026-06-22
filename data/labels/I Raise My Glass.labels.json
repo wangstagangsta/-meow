@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "fileName": "I Raise My Glass.m4a",
+  "duration": 203.66933333333333,
+  "bpm": 155,
+  "downbeatOffset": 0.31961762119128656,
+  "cueTime": 155.15832729861066,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 6.513166008288061,
+      "barCount": 4,
+      "msSinceStart": 6513
+    },
+    {
+      "phraseId": "verse",
+      "time": 42.12606923409451,
+      "barCount": 27,
+      "msSinceStart": 42126
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 56.06155310506225,
+      "barCount": 36,
+      "msSinceStart": 56062
+    },
+    {
+      "phraseId": "lead",
+      "time": 68.4486498792558,
+      "barCount": 44,
+      "msSinceStart": 68449
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 77.73897245990096,
+      "barCount": 50,
+      "msSinceStart": 77739
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 80.83574665344935,
+      "barCount": 52,
+      "msSinceStart": 80836
+    },
+    {
+      "phraseId": "drop",
+      "time": 105.60994020183644,
+      "barCount": 68,
+      "msSinceStart": 105610
+    },
+    {
+      "phraseId": "bridge",
+      "time": 117.99703697602999,
+      "barCount": 76,
+      "msSinceStart": 117997
+    },
+    {
+      "phraseId": "verse",
+      "time": 142.7712305244171,
+      "barCount": 92,
+      "msSinceStart": 142771
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 153.60994020183645,
+      "barCount": 99,
+      "msSinceStart": 153610
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 155.15832729861066,
+      "barCount": 100,
+      "msSinceStart": 155158
+    },
+    {
+      "phraseId": "drop",
+      "time": 179.93252084699773,
+      "barCount": 116,
+      "msSinceStart": 179933
+    },
+    {
+      "phraseId": "quiet",
+      "time": 203.5454240728042,
+      "barCount": 131,
+      "msSinceStart": 203545
+    }
+  ]
+}

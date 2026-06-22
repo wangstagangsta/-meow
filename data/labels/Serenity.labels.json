@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "fileName": "Serenity.m4a",
+  "duration": 204.1386875,
+  "bpm": 160,
+  "downbeatOffset": 0.045794105529785155,
+  "cueTime": 73.54584239208415,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 13.545794105529785,
+      "barCount": 9,
+      "msSinceStart": 13546
+    },
+    {
+      "phraseId": "verse",
+      "time": 37.54579410552979,
+      "barCount": 25,
+      "msSinceStart": 37546
+    },
+    {
+      "phraseId": "bridge",
+      "time": 43.54579410552979,
+      "barCount": 29,
+      "msSinceStart": 43546
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 72.04579410552978,
+      "barCount": 48,
+      "msSinceStart": 72046
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 73.54579410552978,
+      "barCount": 49,
+      "msSinceStart": 73546
+    },
+    {
+      "phraseId": "drop",
+      "time": 97.54579410552978,
+      "barCount": 65,
+      "msSinceStart": 97546
+    },
+    {
+      "phraseId": "bridge",
+      "time": 109.54579410552978,
+      "barCount": 73,
+      "msSinceStart": 109546
+    },
+    {
+      "phraseId": "verse",
+      "time": 133.54579410552978,
+      "barCount": 89,
+      "msSinceStart": 133546
+    },
+    {
+      "phraseId": "bridge",
+      "time": 139.54579410552978,
+      "barCount": 93,
+      "msSinceStart": 139546
+    },
+    {
+      "phraseId": "lead",
+      "time": 163.54579410552978,
+      "barCount": 109,
+      "msSinceStart": 163546
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 174.04579410552978,
+      "barCount": 116,
+      "msSinceStart": 174046
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 175.54579410552978,
+      "barCount": 117,
+      "msSinceStart": 175546
+    },
+    {
+      "phraseId": "drop",
+      "time": 199.54579410552978,
+      "barCount": 133,
+      "msSinceStart": 199546
+    },
+    {
+      "phraseId": "quiet",
+      "time": 205.54579410552978,
+      "barCount": 137,
+      "msSinceStart": 205546
+    }
+  ]
+}

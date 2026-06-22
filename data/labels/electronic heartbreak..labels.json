@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "electronic heartbreak..m4a",
+  "duration": 210.14827083333333,
+  "bpm": 155,
+  "downbeatOffset": -1.5471316301587996,
+  "cueTime": 86.71093288597022,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 12.388352240808942,
+      "barCount": 9,
+      "msSinceStart": 12388
+    },
+    {
+      "phraseId": "verse",
+      "time": 61.936739337583134,
+      "barCount": 41,
+      "msSinceStart": 61937
+    },
+    {
+      "phraseId": "lead",
+      "time": 74.32383611177669,
+      "barCount": 49,
+      "msSinceStart": 74324
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 85.16254578919603,
+      "barCount": 56,
+      "msSinceStart": 85163
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 86.71093288597022,
+      "barCount": 57,
+      "msSinceStart": 86711
+    },
+    {
+      "phraseId": "drop",
+      "time": 111.48512643435733,
+      "barCount": 73,
+      "msSinceStart": 111485
+    },
+    {
+      "phraseId": "bridge",
+      "time": 114.58190062790571,
+      "barCount": 75,
+      "msSinceStart": 114582
+    },
+    {
+      "phraseId": "verse",
+      "time": 151.74319095048637,
+      "barCount": 99,
+      "msSinceStart": 151743
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 162.58190062790572,
+      "barCount": 106,
+      "msSinceStart": 162582
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 164.13028772467993,
+      "barCount": 107,
+      "msSinceStart": 164130
+    },
+    {
+      "phraseId": "drop",
+      "time": 199.74319095048637,
+      "barCount": 130,
+      "msSinceStart": 199743
+    },
+    {
+      "phraseId": "quiet",
+      "time": 210.14827083333333,
+      "barCount": 137,
+      "msSinceStart": 210148
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "fileName": "Everything Is Not Lost.m4a",
+  "duration": 206.23197916666666,
+  "bpm": 166,
+  "downbeatOffset": 2.520178129024015,
+  "cueTime": 1.0743949964938946,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 12.640660056734859,
+      "barCount": 7,
+      "msSinceStart": 12641
+    },
+    {
+      "phraseId": "verse",
+      "time": 35.77319017721679,
+      "barCount": 23,
+      "msSinceStart": 35773
+    },
+    {
+      "phraseId": "bridge",
+      "time": 41.55632270733727,
+      "barCount": 27,
+      "msSinceStart": 41556
+    },
+    {
+      "phraseId": "lead",
+      "time": 64.68885282781919,
+      "barCount": 43,
+      "msSinceStart": 64689
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 73.36355162299992,
+      "barCount": 49,
+      "msSinceStart": 73364
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 77.70090102059028,
+      "barCount": 52,
+      "msSinceStart": 77701
+    },
+    {
+      "phraseId": "drop",
+      "time": 100.83343114107221,
+      "barCount": 68,
+      "msSinceStart": 100833
+    },
+    {
+      "phraseId": "bridge",
+      "time": 106.6165636711927,
+      "barCount": 72,
+      "msSinceStart": 106617
+    },
+    {
+      "phraseId": "verse",
+      "time": 116.73704559890353,
+      "barCount": 79,
+      "msSinceStart": 116737
+    },
+    {
+      "phraseId": "bridge",
+      "time": 121.0743949964939,
+      "barCount": 82,
+      "msSinceStart": 121074
+    },
+    {
+      "phraseId": "lead",
+      "time": 132.64066005673484,
+      "barCount": 90,
+      "msSinceStart": 132641
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 141.31535885191556,
+      "barCount": 96,
+      "msSinceStart": 141315
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 144.2069251169758,
+      "barCount": 98,
+      "msSinceStart": 144207
+    },
+    {
+      "phraseId": "drop",
+      "time": 168.78523836998787,
+      "barCount": 115,
+      "msSinceStart": 168785
+    },
+    {
+      "phraseId": "bridge",
+      "time": 174.56837090010833,
+      "barCount": 119,
+      "msSinceStart": 174568
+    },
+    {
+      "phraseId": "verse",
+      "time": 197.70090102059027,
+      "barCount": 135,
+      "msSinceStart": 197701
+    },
+    {
+      "phraseId": "quiet",
+      "time": 206.60697916666666,
+      "barCount": 141,
+      "msSinceStart": 206607
+    }
+  ]
+}

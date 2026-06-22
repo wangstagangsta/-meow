@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "Forever Lost.m4a",
+  "duration": 185.25,
+  "bpm": 160,
+  "downbeatOffset": 1.4987942695617675,
+  "cueTime": 67.49879426956177,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "verse",
+      "time": 28.498794269561767,
+      "barCount": 18,
+      "msSinceStart": 28499
+    },
+    {
+      "phraseId": "lead",
+      "time": 56.99879426956177,
+      "barCount": 37,
+      "msSinceStart": 56999
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 61.49879426956177,
+      "barCount": 40,
+      "msSinceStart": 61499
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 67.49879426956177,
+      "barCount": 44,
+      "msSinceStart": 67499
+    },
+    {
+      "phraseId": "drop",
+      "time": 103.49879426956177,
+      "barCount": 68,
+      "msSinceStart": 103499
+    },
+    {
+      "phraseId": "bridge",
+      "time": 116.99879426956177,
+      "barCount": 77,
+      "msSinceStart": 116999
+    },
+    {
+      "phraseId": "verse",
+      "time": 131.99879426956176,
+      "barCount": 87,
+      "msSinceStart": 131999
+    },
+    {
+      "phraseId": "lead",
+      "time": 149.99879426956176,
+      "barCount": 99,
+      "msSinceStart": 149999
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 154.49879426956176,
+      "barCount": 102,
+      "msSinceStart": 154499
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 155.99879426956176,
+      "barCount": 103,
+      "msSinceStart": 155999
+    },
+    {
+      "phraseId": "drop",
+      "time": 179.99879426956176,
+      "barCount": 119,
+      "msSinceStart": 179999
+    },
+    {
+      "phraseId": "quiet",
+      "time": 185.24879426956176,
+      "barCount": 123,
+      "msSinceStart": 185249
+    }
+  ]
+}

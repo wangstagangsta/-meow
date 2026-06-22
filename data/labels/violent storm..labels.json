@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "fileName": "violent storm..m4a",
+  "duration": 247.29814583333334,
+  "bpm": 155,
+  "downbeatOffset": 0.001563814206566816,
+  "cueTime": 207.46452470247593,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 12.388660588400114,
+      "barCount": 8,
+      "msSinceStart": 12389
+    },
+    {
+      "phraseId": "verse",
+      "time": 61.93704768517431,
+      "barCount": 40,
+      "msSinceStart": 61937
+    },
+    {
+      "phraseId": "lead",
+      "time": 86.7112412335614,
+      "barCount": 56,
+      "msSinceStart": 86711
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 91.35640252388399,
+      "barCount": 59,
+      "msSinceStart": 91356
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 92.90478962065818,
+      "barCount": 60,
+      "msSinceStart": 92905
+    },
+    {
+      "phraseId": "drop",
+      "time": 123.87253155614205,
+      "barCount": 80,
+      "msSinceStart": 123873
+    },
+    {
+      "phraseId": "bridge",
+      "time": 126.96930574969043,
+      "barCount": 82,
+      "msSinceStart": 126969
+    },
+    {
+      "phraseId": "verse",
+      "time": 176.51769284646463,
+      "barCount": 114,
+      "msSinceStart": 176518
+    },
+    {
+      "phraseId": "lead",
+      "time": 201.29188639485173,
+      "barCount": 130,
+      "msSinceStart": 201292
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 205.93704768517432,
+      "barCount": 133,
+      "msSinceStart": 205937
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 207.4854347819485,
+      "barCount": 134,
+      "msSinceStart": 207485
+    },
+    {
+      "phraseId": "drop",
+      "time": 238.45317671743237,
+      "barCount": 154,
+      "msSinceStart": 238453
+    },
+    {
+      "phraseId": "quiet",
+      "time": 247.29814583333334,
+      "barCount": 160,
+      "msSinceStart": 247298
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "fileName": "Who Is She.m4a",
+  "duration": 165.27608333333333,
+  "bpm": 163,
+  "downbeatOffset": 0.000007337419863528982,
+  "cueTime": 44.17178647852416,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 2.944792613493483,
+      "barCount": 2,
+      "msSinceStart": 2945
+    },
+    {
+      "phraseId": "verse",
+      "time": 32.39264537422968,
+      "barCount": 22,
+      "msSinceStart": 32393
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 42.699393840487346,
+      "barCount": 29,
+      "msSinceStart": 42699
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 44.17178647852416,
+      "barCount": 30,
+      "msSinceStart": 44172
+    },
+    {
+      "phraseId": "drop",
+      "time": 67.7300686871131,
+      "barCount": 46,
+      "msSinceStart": 67730
+    },
+    {
+      "phraseId": "bridge",
+      "time": 85.39878034355482,
+      "barCount": 58,
+      "msSinceStart": 85399
+    },
+    {
+      "phraseId": "verse",
+      "time": 100.12270672392292,
+      "barCount": 68,
+      "msSinceStart": 100123
+    },
+    {
+      "phraseId": "bridge",
+      "time": 103.06749199999655,
+      "barCount": 70,
+      "msSinceStart": 103067
+    },
+    {
+      "phraseId": "lead",
+      "time": 120.73620365643826,
+      "barCount": 82,
+      "msSinceStart": 120736
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 136.93252267484317,
+      "barCount": 93,
+      "msSinceStart": 136933
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 138.40491531287998,
+      "barCount": 94,
+      "msSinceStart": 138405
+    },
+    {
+      "phraseId": "drop",
+      "time": 161.96319752146894,
+      "barCount": 110,
+      "msSinceStart": 161963
+    },
+    {
+      "phraseId": "quiet",
+      "time": 165.2760625,
+      "barCount": 112,
+      "msSinceStart": 165276
+    }
+  ]
+}

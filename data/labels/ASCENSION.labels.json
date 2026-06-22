@@ -1,7 +1,7 @@
 {
-  "version": 2,
-  "fileName": "ASCENSION.mp3",
-  "duration": 210.2645625,
+  "version": 3,
+  "fileName": "ASCENSION.m4a",
+  "duration": 210.26458333333332,
   "bpm": 160,
   "downbeatOffset": 0,
   "cueTime": 0,
@@ -9,6 +9,18 @@
   "phraseMarkers": [
     {
       "phraseId": "quiet",
+      "time": 15,
+      "barCount": 10,
+      "msSinceStart": 15000
+    },
+    {
+      "phraseId": "verse",
+      "time": 27,
+      "barCount": 18,
+      "msSinceStart": 27000
+    },
+    {
+      "phraseId": "bridge",
       "time": 30,
       "barCount": 20,
       "msSinceStart": 30000
@@ -26,40 +38,16 @@
       "msSinceStart": 54000
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "preDropFill",
       "time": 60,
       "barCount": 40,
       "msSinceStart": 60000
     },
     {
       "phraseId": "drop",
-      "time": 64.5,
-      "barCount": 43,
-      "msSinceStart": 64500
-    },
-    {
-      "phraseId": "bridge",
-      "time": 66,
-      "barCount": 44,
-      "msSinceStart": 66000
-    },
-    {
-      "phraseId": "drop",
-      "time": 70.5,
-      "barCount": 47,
-      "msSinceStart": 70500
-    },
-    {
-      "phraseId": "bridge",
-      "time": 72,
-      "barCount": 48,
-      "msSinceStart": 72000
-    },
-    {
-      "phraseId": "drop",
-      "time": 82.5,
-      "barCount": 55,
-      "msSinceStart": 82500
+      "time": 84,
+      "barCount": 56,
+      "msSinceStart": 84000
     },
     {
       "phraseId": "bridge",
@@ -68,7 +56,7 @@
       "msSinceStart": 87000
     },
     {
-      "phraseId": "quiet",
+      "phraseId": "verse",
       "time": 99,
       "barCount": 66,
       "msSinceStart": 99000
@@ -80,7 +68,7 @@
       "msSinceStart": 111000
     },
     {
-      "phraseId": "quiet",
+      "phraseId": "bridge",
       "time": 114,
       "barCount": 76,
       "msSinceStart": 114000
@@ -93,48 +81,18 @@
     },
     {
       "phraseId": "buildUp",
-      "time": 136.5,
-      "barCount": 91,
-      "msSinceStart": 136500
-    },
-    {
-      "phraseId": "bridge",
-      "time": 138,
-      "barCount": 92,
-      "msSinceStart": 138000
-    },
-    {
-      "phraseId": "buildUp",
       "time": 150,
       "barCount": 100,
       "msSinceStart": 150000
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "preDropFill",
       "time": 156,
       "barCount": 104,
       "msSinceStart": 156000
     },
     {
       "phraseId": "drop",
-      "time": 160.5,
-      "barCount": 107,
-      "msSinceStart": 160500
-    },
-    {
-      "phraseId": "bridge",
-      "time": 162,
-      "barCount": 108,
-      "msSinceStart": 162000
-    },
-    {
-      "phraseId": "drop",
-      "time": 166.5,
-      "barCount": 111,
-      "msSinceStart": 166500
-    },
-    {
-      "phraseId": "bridge",
       "time": 168,
       "barCount": 112,
       "msSinceStart": 168000
@@ -146,28 +104,22 @@
       "msSinceStart": 178500
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "preDropFill",
       "time": 180,
       "barCount": 120,
       "msSinceStart": 180000
     },
     {
       "phraseId": "drop",
-      "time": 192,
-      "barCount": 128,
-      "msSinceStart": 192000
-    },
-    {
-      "phraseId": "bridge",
-      "time": 195,
-      "barCount": 130,
-      "msSinceStart": 195000
-    },
-    {
-      "phraseId": "drop",
       "time": 204,
       "barCount": 136,
       "msSinceStart": 204000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 210.2645625,
+      "barCount": 140,
+      "msSinceStart": 210265
     }
   ]
 }

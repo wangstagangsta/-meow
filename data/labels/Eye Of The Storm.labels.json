@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "Eye Of The Storm.m4a",
+  "duration": 173.376,
+  "bpm": 155,
+  "downbeatOffset": 0.021885190330647175,
+  "cueTime": 43.376723900008066,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 6.215433577427421,
+      "barCount": 4,
+      "msSinceStart": 6215
+    },
+    {
+      "phraseId": "verse",
+      "time": 30.98962712581452,
+      "barCount": 20,
+      "msSinceStart": 30990
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 41.828336803233874,
+      "barCount": 27,
+      "msSinceStart": 41828
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 43.376723900008066,
+      "barCount": 28,
+      "msSinceStart": 43377
+    },
+    {
+      "phraseId": "drop",
+      "time": 71.24769164194355,
+      "barCount": 46,
+      "msSinceStart": 71248
+    },
+    {
+      "phraseId": "bridge",
+      "time": 77.44124002904033,
+      "barCount": 50,
+      "msSinceStart": 77441
+    },
+    {
+      "phraseId": "verse",
+      "time": 105.3122077709758,
+      "barCount": 68,
+      "msSinceStart": 105312
+    },
+    {
+      "phraseId": "lead",
+      "time": 130.0864013193629,
+      "barCount": 84,
+      "msSinceStart": 130086
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 140.92511099678225,
+      "barCount": 91,
+      "msSinceStart": 140925
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 142.47349809355643,
+      "barCount": 92,
+      "msSinceStart": 142473
+    },
+    {
+      "phraseId": "drop",
+      "time": 167.24769164194353,
+      "barCount": 108,
+      "msSinceStart": 167248
+    },
+    {
+      "phraseId": "quiet",
+      "time": 173.376,
+      "barCount": 112,
+      "msSinceStart": 173376
+    }
+  ]
+}

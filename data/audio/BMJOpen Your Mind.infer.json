@@ -1,0 +1,233 @@
+{
+  "version": 3,
+  "fileName": "BMJOpen Your Mind.m4a",
+  "duration": 179.25,
+  "bpm": 160.0,
+  "downbeatOffset": 0.0,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 7.5,
+      "barCount": 5,
+      "msSinceStart": 7500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 10.5,
+      "barCount": 7,
+      "msSinceStart": 10500
+    },
+    {
+      "phraseId": "verse",
+      "time": 34.5,
+      "barCount": 23,
+      "msSinceStart": 34500
+    },
+    {
+      "phraseId": "drop",
+      "time": 36.0,
+      "barCount": 24,
+      "msSinceStart": 36000
+    },
+    {
+      "phraseId": "lead",
+      "time": 43.5,
+      "barCount": 29,
+      "msSinceStart": 43500
+    },
+    {
+      "phraseId": "drop",
+      "time": 45.0,
+      "barCount": 30,
+      "msSinceStart": 45000
+    },
+    {
+      "phraseId": "lead",
+      "time": 51.0,
+      "barCount": 34,
+      "msSinceStart": 51000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 54.0,
+      "barCount": 36,
+      "msSinceStart": 54000
+    },
+    {
+      "phraseId": "drop",
+      "time": 55.5,
+      "barCount": 37,
+      "msSinceStart": 55500
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 58.5,
+      "barCount": 39,
+      "msSinceStart": 58500
+    },
+    {
+      "phraseId": "drop",
+      "time": 60.0,
+      "barCount": 40,
+      "msSinceStart": 60000
+    },
+    {
+      "phraseId": "verse",
+      "time": 61.5,
+      "barCount": 41,
+      "msSinceStart": 61500
+    },
+    {
+      "phraseId": "drop",
+      "time": 64.5,
+      "barCount": 43,
+      "msSinceStart": 64500
+    },
+    {
+      "phraseId": "verse",
+      "time": 73.5,
+      "barCount": 49,
+      "msSinceStart": 73500
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 75.0,
+      "barCount": 50,
+      "msSinceStart": 75000
+    },
+    {
+      "phraseId": "drop",
+      "time": 79.5,
+      "barCount": 53,
+      "msSinceStart": 79500
+    },
+    {
+      "phraseId": "lead",
+      "time": 82.5,
+      "barCount": 55,
+      "msSinceStart": 82500
+    },
+    {
+      "phraseId": "drop",
+      "time": 85.5,
+      "barCount": 57,
+      "msSinceStart": 85500
+    },
+    {
+      "phraseId": "lead",
+      "time": 87.0,
+      "barCount": 58,
+      "msSinceStart": 87000
+    },
+    {
+      "phraseId": "drop",
+      "time": 88.5,
+      "barCount": 59,
+      "msSinceStart": 88500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 90.0,
+      "barCount": 60,
+      "msSinceStart": 90000
+    },
+    {
+      "phraseId": "verse",
+      "time": 97.5,
+      "barCount": 65,
+      "msSinceStart": 97500
+    },
+    {
+      "phraseId": "lead",
+      "time": 115.5,
+      "barCount": 77,
+      "msSinceStart": 115500
+    },
+    {
+      "phraseId": "drop",
+      "time": 117.0,
+      "barCount": 78,
+      "msSinceStart": 117000
+    },
+    {
+      "phraseId": "lead",
+      "time": 118.5,
+      "barCount": 79,
+      "msSinceStart": 118500
+    },
+    {
+      "phraseId": "drop",
+      "time": 120.0,
+      "barCount": 80,
+      "msSinceStart": 120000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 121.5,
+      "barCount": 81,
+      "msSinceStart": 121500
+    },
+    {
+      "phraseId": "verse",
+      "time": 123.0,
+      "barCount": 82,
+      "msSinceStart": 123000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 129.0,
+      "barCount": 86,
+      "msSinceStart": 129000
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 130.5,
+      "barCount": 87,
+      "msSinceStart": 130500
+    },
+    {
+      "phraseId": "verse",
+      "time": 136.5,
+      "barCount": 91,
+      "msSinceStart": 136500
+    },
+    {
+      "phraseId": "drop",
+      "time": 139.5,
+      "barCount": 93,
+      "msSinceStart": 139500
+    },
+    {
+      "phraseId": "lead",
+      "time": 142.5,
+      "barCount": 95,
+      "msSinceStart": 142500
+    },
+    {
+      "phraseId": "verse",
+      "time": 145.5,
+      "barCount": 97,
+      "msSinceStart": 145500
+    },
+    {
+      "phraseId": "lead",
+      "time": 147.0,
+      "barCount": 98,
+      "msSinceStart": 147000
+    },
+    {
+      "phraseId": "drop",
+      "time": 162.0,
+      "barCount": 108,
+      "msSinceStart": 162000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 178.5,
+      "barCount": 119,
+      "msSinceStart": 178500
+    }
+  ]
+}

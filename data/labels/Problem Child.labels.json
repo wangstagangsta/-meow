@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "Problem Child.m4a",
+  "duration": 177.07858333333334,
+  "bpm": 155,
+  "downbeatOffset": 0.07855810667341245,
+  "cueTime": 6.2721064937701865,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 6.2721064937701865,
+      "barCount": 4,
+      "msSinceStart": 6272
+    },
+    {
+      "phraseId": "verse",
+      "time": 43.43339681635083,
+      "barCount": 28,
+      "msSinceStart": 43433
+    },
+    {
+      "phraseId": "lead",
+      "time": 71.30436455828631,
+      "barCount": 46,
+      "msSinceStart": 71304
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 79.04630004215728,
+      "barCount": 51,
+      "msSinceStart": 79046
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 83.69146133247986,
+      "barCount": 54,
+      "msSinceStart": 83691
+    },
+    {
+      "phraseId": "drop",
+      "time": 108.46565488086696,
+      "barCount": 70,
+      "msSinceStart": 108466
+    },
+    {
+      "phraseId": "bridge",
+      "time": 111.56242907441535,
+      "barCount": 72,
+      "msSinceStart": 111562
+    },
+    {
+      "phraseId": "verse",
+      "time": 136.33662262280245,
+      "barCount": 88,
+      "msSinceStart": 136337
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 147.17533230022178,
+      "barCount": 95,
+      "msSinceStart": 147175
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 151.8204935905444,
+      "barCount": 98,
+      "msSinceStart": 151820
+    },
+    {
+      "phraseId": "drop",
+      "time": 175.04630004215727,
+      "barCount": 113,
+      "msSinceStart": 175046
+    },
+    {
+      "phraseId": "quiet",
+      "time": 176.981783913125,
+      "barCount": 114,
+      "msSinceStart": 176982
+    }
+  ]
+}

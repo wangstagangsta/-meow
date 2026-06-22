@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "blame game..m4a",
+  "duration": 196.50835416666666,
+  "bpm": 155,
+  "downbeatOffset": 0,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 12.387096774193548,
+      "barCount": 8,
+      "msSinceStart": 12387
+    },
+    {
+      "phraseId": "verse",
+      "time": 61.935483870967744,
+      "barCount": 40,
+      "msSinceStart": 61935
+    },
+    {
+      "phraseId": "lead",
+      "time": 74.32258064516128,
+      "barCount": 48,
+      "msSinceStart": 74323
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 85.16129032258064,
+      "barCount": 55,
+      "msSinceStart": 85161
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 86.70967741935483,
+      "barCount": 56,
+      "msSinceStart": 86710
+    },
+    {
+      "phraseId": "drop",
+      "time": 111.48387096774194,
+      "barCount": 72,
+      "msSinceStart": 111484
+    },
+    {
+      "phraseId": "verse",
+      "time": 136.25806451612902,
+      "barCount": 88,
+      "msSinceStart": 136258
+    },
+    {
+      "phraseId": "bridge",
+      "time": 148.64516129032256,
+      "barCount": 96,
+      "msSinceStart": 148645
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 159.48387096774192,
+      "barCount": 103,
+      "msSinceStart": 159484
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 165.67741935483872,
+      "barCount": 107,
+      "msSinceStart": 165677
+    },
+    {
+      "phraseId": "drop",
+      "time": 190.4516129032258,
+      "barCount": 123,
+      "msSinceStart": 190452
+    },
+    {
+      "phraseId": "quiet",
+      "time": 196.50835416666666,
+      "barCount": 127,
+      "msSinceStart": 196508
+    }
+  ]
+}

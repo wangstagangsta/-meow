@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "fileName": "pretty poison..m4a",
+  "duration": 186.5071875,
+  "bpm": 155,
+  "downbeatOffset": 0.38138035399119613,
+  "cueTime": 0.3813617146814067,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 12.768477128184744,
+      "barCount": 8,
+      "msSinceStart": 12768
+    },
+    {
+      "phraseId": "verse",
+      "time": 51.47815454753958,
+      "barCount": 33,
+      "msSinceStart": 51478
+    },
+    {
+      "phraseId": "lead",
+      "time": 63.86525132173313,
+      "barCount": 41,
+      "msSinceStart": 63865
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 74.70396099915247,
+      "barCount": 48,
+      "msSinceStart": 74704
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 79.34912228947506,
+      "barCount": 51,
+      "msSinceStart": 79349
+    },
+    {
+      "phraseId": "drop",
+      "time": 104.12331583786215,
+      "barCount": 67,
+      "msSinceStart": 104123
+    },
+    {
+      "phraseId": "verse",
+      "time": 145.92976745076538,
+      "barCount": 94,
+      "msSinceStart": 145930
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 152.12331583786218,
+      "barCount": 98,
+      "msSinceStart": 152123
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 156.76847712818474,
+      "barCount": 101,
+      "msSinceStart": 156768
+    },
+    {
+      "phraseId": "drop",
+      "time": 181.54267067657184,
+      "barCount": 117,
+      "msSinceStart": 181543
+    },
+    {
+      "phraseId": "quiet",
+      "time": 186.5071875,
+      "barCount": 120,
+      "msSinceStart": 186507
+    }
+  ]
+}

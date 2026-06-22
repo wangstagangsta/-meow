@@ -1,0 +1,53 @@
+{
+  "version": 3,
+  "fileName": "i need you. (outroduction).m4a",
+  "duration": 126.7675,
+  "bpm": 155,
+  "downbeatOffset": 0.8182629343468619,
+  "cueTime": 87.91408995086967,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 0.8182629343468619,
+      "barCount": 0,
+      "msSinceStart": 818
+    },
+    {
+      "phraseId": "verse",
+      "time": 50.366650031121054,
+      "barCount": 32,
+      "msSinceStart": 50367
+    },
+    {
+      "phraseId": "lead",
+      "time": 62.753746805314606,
+      "barCount": 40,
+      "msSinceStart": 62754
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 72.04406938595976,
+      "barCount": 46,
+      "msSinceStart": 72044
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 75.14084357950814,
+      "barCount": 48,
+      "msSinceStart": 75141
+    },
+    {
+      "phraseId": "drop",
+      "time": 99.91503712789525,
+      "barCount": 64,
+      "msSinceStart": 99915
+    },
+    {
+      "phraseId": "quiet",
+      "time": 126.62471454725008,
+      "barCount": 81,
+      "msSinceStart": 126625
+    }
+  ]
+}

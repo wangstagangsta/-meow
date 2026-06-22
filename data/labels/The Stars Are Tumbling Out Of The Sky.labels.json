@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "fileName": "The Stars Are Tumbling Out Of The Sky.m4a",
+  "duration": 181.1485,
+  "bpm": 160,
+  "downbeatOffset": -0.3508503007368333,
+  "cueTime": 154.14914969926318,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "drop",
+      "time": 0,
+      "barCount": 0,
+      "msSinceStart": 0
+    },
+    {
+      "phraseId": "quiet",
+      "time": 13.149149699263166,
+      "barCount": 9,
+      "msSinceStart": 13149
+    },
+    {
+      "phraseId": "verse",
+      "time": 40.14914969926317,
+      "barCount": 27,
+      "msSinceStart": 40149
+    },
+    {
+      "phraseId": "lead",
+      "time": 64.14914969926316,
+      "barCount": 43,
+      "msSinceStart": 64149
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 74.64914969926316,
+      "barCount": 50,
+      "msSinceStart": 74649
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 76.14914969926316,
+      "barCount": 51,
+      "msSinceStart": 76149
+    },
+    {
+      "phraseId": "drop",
+      "time": 100.14914969926316,
+      "barCount": 67,
+      "msSinceStart": 100149
+    },
+    {
+      "phraseId": "bridge",
+      "time": 103.14914969926316,
+      "barCount": 69,
+      "msSinceStart": 103149
+    },
+    {
+      "phraseId": "verse",
+      "time": 127.14914969926316,
+      "barCount": 85,
+      "msSinceStart": 127149
+    },
+    {
+      "phraseId": "lead",
+      "time": 139.14914969926318,
+      "barCount": 93,
+      "msSinceStart": 139149
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 149.64914969926318,
+      "barCount": 100,
+      "msSinceStart": 149649
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 154.14914969926318,
+      "barCount": 103,
+      "msSinceStart": 154149
+    },
+    {
+      "phraseId": "drop",
+      "time": 178.14914969926318,
+      "barCount": 119,
+      "msSinceStart": 178149
+    },
+    {
+      "phraseId": "quiet",
+      "time": 181.1485,
+      "barCount": 121,
+      "msSinceStart": 181149
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "fileName": "WAKE UP.m4a",
+  "duration": 156.22160416666668,
+  "bpm": 160,
+  "downbeatOffset": 0,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 3,
+      "barCount": 2,
+      "msSinceStart": 3000
+    },
+    {
+      "phraseId": "verse",
+      "time": 27,
+      "barCount": 18,
+      "msSinceStart": 27000
+    },
+    {
+      "phraseId": "lead",
+      "time": 39,
+      "barCount": 26,
+      "msSinceStart": 39000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 51,
+      "barCount": 34,
+      "msSinceStart": 51000
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 54,
+      "barCount": 36,
+      "msSinceStart": 54000
+    },
+    {
+      "phraseId": "drop",
+      "time": 76.5,
+      "barCount": 51,
+      "msSinceStart": 76500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 84,
+      "barCount": 56,
+      "msSinceStart": 84000
+    },
+    {
+      "phraseId": "verse",
+      "time": 102,
+      "barCount": 68,
+      "msSinceStart": 102000
+    },
+    {
+      "phraseId": "lead",
+      "time": 120,
+      "barCount": 80,
+      "msSinceStart": 120000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 126,
+      "barCount": 84,
+      "msSinceStart": 126000
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 132,
+      "barCount": 88,
+      "msSinceStart": 132000
+    },
+    {
+      "phraseId": "drop",
+      "time": 154.5,
+      "barCount": 103,
+      "msSinceStart": 154500
+    },
+    {
+      "phraseId": "quiet",
+      "time": 156.22160416666668,
+      "barCount": 104,
+      "msSinceStart": 156222
+    }
+  ]
+}

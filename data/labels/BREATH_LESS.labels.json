@@ -1,95 +1,77 @@
 {
-  "version": 2,
-  "fileName": "BREATH_LESS.mp3",
-  "duration": 192.22621315192742,
+  "version": 3,
+  "fileName": "BREATH_LESS.m4a",
+  "duration": 192.22622916666666,
   "bpm": 160,
   "downbeatOffset": 0,
   "cueTime": 0,
   "quantizeEnabled": true,
   "phraseMarkers": [
     {
-      "phraseId": "quiet",
-      "time": 15,
-      "barCount": 10,
-      "msSinceStart": 15000
-    },
-    {
       "phraseId": "verse",
-      "time": 27,
-      "barCount": 18,
-      "msSinceStart": 27000
-    },
-    {
-      "phraseId": "quiet",
-      "time": 37.5,
-      "barCount": 25,
-      "msSinceStart": 37500
-    },
-    {
-      "phraseId": "bridge",
-      "time": 39,
-      "barCount": 26,
-      "msSinceStart": 39000
+      "time": 36,
+      "barCount": 24,
+      "msSinceStart": 36000
     },
     {
       "phraseId": "lead",
-      "time": 51,
-      "barCount": 34,
-      "msSinceStart": 51000
+      "time": 48,
+      "barCount": 32,
+      "msSinceStart": 48000
     },
     {
       "phraseId": "buildUp",
-      "time": 73.5,
-      "barCount": 49,
-      "msSinceStart": 73500
+      "time": 70.5,
+      "barCount": 47,
+      "msSinceStart": 70500
     },
     {
-      "phraseId": "bridge",
-      "time": 75,
-      "barCount": 50,
-      "msSinceStart": 75000
+      "phraseId": "preDropFill",
+      "time": 72,
+      "barCount": 48,
+      "msSinceStart": 72000
     },
     {
       "phraseId": "drop",
-      "time": 97.5,
-      "barCount": 65,
-      "msSinceStart": 97500
+      "time": 96,
+      "barCount": 64,
+      "msSinceStart": 96000
     },
     {
       "phraseId": "bridge",
-      "time": 99,
-      "barCount": 66,
-      "msSinceStart": 99000
-    },
-    {
-      "phraseId": "quiet",
-      "time": 126,
-      "barCount": 84,
-      "msSinceStart": 126000
+      "time": 111,
+      "barCount": 74,
+      "msSinceStart": 111000
     },
     {
       "phraseId": "verse",
-      "time": 138,
-      "barCount": 92,
-      "msSinceStart": 138000
+      "time": 135,
+      "barCount": 90,
+      "msSinceStart": 135000
     },
     {
       "phraseId": "buildUp",
-      "time": 160.5,
-      "barCount": 107,
-      "msSinceStart": 160500
+      "time": 157.5,
+      "barCount": 105,
+      "msSinceStart": 157500
     },
     {
-      "phraseId": "bridge",
-      "time": 162,
-      "barCount": 108,
-      "msSinceStart": 162000
+      "phraseId": "preDropFill",
+      "time": 159,
+      "barCount": 106,
+      "msSinceStart": 159000
     },
     {
       "phraseId": "drop",
-      "time": 186,
-      "barCount": 124,
-      "msSinceStart": 186000
+      "time": 183,
+      "barCount": 122,
+      "msSinceStart": 183000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 192.22620833333335,
+      "barCount": 128,
+      "msSinceStart": 192226
     }
   ]
 }

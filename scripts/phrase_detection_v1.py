@@ -30,7 +30,7 @@ LABEL_DIR = DATA_DIR / "labels"
 SR = 22050
 N_MELS = 64
 BEATS_PER_BAR = 4
-CONTEXT_BARS = 1
+CONTEXT_BARS = 8
 RANDOM_STATE = 42
 
 np.random.seed(RANDOM_STATE)
@@ -102,16 +102,13 @@ def _generate_bar_labels(track: TrackLabels, beats_per_bar: int = BEATS_PER_BAR)
     bar_duration = _bar_duration_seconds(track, beats_per_bar)
     total_bars = int(np.ceil(max(track.duration - track.downbeat_offset, 0) / bar_duration))
 
-    labels: List[str] = []
-    marker_idx = 0
-    current_label = track.markers[0].phrase_id
+    labels: List[str] = [""] * total_bars
 
-    for bar_idx in range(total_bars):
-        next_idx = marker_idx + 1
-        if next_idx < len(track.markers) and bar_idx >= track.markers[next_idx].bar_count:
-            marker_idx = next_idx
-            current_label = track.markers[marker_idx].phrase_id
-        labels.append(current_label)
+    for i, marker in enumerate(track.markers):
+        start_bar = track.markers[i - 1].bar_count + 1 if i > 0 else 0
+        end_bar = marker.bar_count + 1
+        for b in range(start_bar, min(end_bar, total_bars)):
+            labels[b] = marker.phrase_id
 
     return labels
 

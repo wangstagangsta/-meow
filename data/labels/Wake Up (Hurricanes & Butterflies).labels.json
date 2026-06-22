@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "fileName": "Wake Up (Hurricanes & Butterflies).m4a",
+  "duration": 177.40260416666666,
+  "bpm": 165,
+  "downbeatOffset": -0.05218891029851985,
+  "cueTime": 58.12962927151967,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 11.584174726065116,
+      "barCount": 8,
+      "msSinceStart": 11584
+    },
+    {
+      "phraseId": "verse",
+      "time": 46.49326563515603,
+      "barCount": 32,
+      "msSinceStart": 46493
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 56.67508381697421,
+      "barCount": 39,
+      "msSinceStart": 56675
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 58.12962927151967,
+      "barCount": 40,
+      "msSinceStart": 58130
+    },
+    {
+      "phraseId": "drop",
+      "time": 81.40235654424693,
+      "barCount": 56,
+      "msSinceStart": 81402
+    },
+    {
+      "phraseId": "bridge",
+      "time": 93.03872018061057,
+      "barCount": 64,
+      "msSinceStart": 93039
+    },
+    {
+      "phraseId": "verse",
+      "time": 116.31144745333785,
+      "barCount": 80,
+      "msSinceStart": 116311
+    },
+    {
+      "phraseId": "bridge",
+      "time": 122.12962927151966,
+      "barCount": 84,
+      "msSinceStart": 122130
+    },
+    {
+      "phraseId": "lead",
+      "time": 139.5841747260651,
+      "barCount": 96,
+      "msSinceStart": 139584
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 143.94781108970147,
+      "barCount": 99,
+      "msSinceStart": 143948
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 151.22053836242875,
+      "barCount": 104,
+      "msSinceStart": 151221
+    },
+    {
+      "phraseId": "drop",
+      "time": 165.7659929078833,
+      "barCount": 114,
+      "msSinceStart": 165766
+    },
+    {
+      "phraseId": "quiet",
+      "time": 177.40235654424694,
+      "barCount": 122,
+      "msSinceStart": 177402
+    }
+  ]
+}

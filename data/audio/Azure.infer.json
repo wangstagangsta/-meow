@@ -1,0 +1,119 @@
+{
+  "version": 3,
+  "fileName": "Azure.m4a",
+  "duration": 227.846,
+  "bpm": 155.0,
+  "downbeatOffset": 1.07,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 7.263548387096774,
+      "barCount": 4,
+      "msSinceStart": 7264
+    },
+    {
+      "phraseId": "verse",
+      "time": 52.166774193548385,
+      "barCount": 33,
+      "msSinceStart": 52167
+    },
+    {
+      "phraseId": "lead",
+      "time": 55.263548387096776,
+      "barCount": 35,
+      "msSinceStart": 55264
+    },
+    {
+      "phraseId": "bridge",
+      "time": 56.81193548387097,
+      "barCount": 36,
+      "msSinceStart": 56812
+    },
+    {
+      "phraseId": "lead",
+      "time": 64.55387096774193,
+      "barCount": 41,
+      "msSinceStart": 64554
+    },
+    {
+      "phraseId": "bridge",
+      "time": 66.10225806451612,
+      "barCount": 42,
+      "msSinceStart": 66102
+    },
+    {
+      "phraseId": "lead",
+      "time": 81.58612903225806,
+      "barCount": 52,
+      "msSinceStart": 81586
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 92.42483870967742,
+      "barCount": 59,
+      "msSinceStart": 92425
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 93.97322580645161,
+      "barCount": 60,
+      "msSinceStart": 93973
+    },
+    {
+      "phraseId": "drop",
+      "time": 118.7474193548387,
+      "barCount": 76,
+      "msSinceStart": 118747
+    },
+    {
+      "phraseId": "bridge",
+      "time": 124.94096774193548,
+      "barCount": 80,
+      "msSinceStart": 124941
+    },
+    {
+      "phraseId": "verse",
+      "time": 145.07,
+      "barCount": 93,
+      "msSinceStart": 145070
+    },
+    {
+      "phraseId": "bridge",
+      "time": 149.71516129032256,
+      "barCount": 96,
+      "msSinceStart": 149715
+    },
+    {
+      "phraseId": "lead",
+      "time": 163.6506451612903,
+      "barCount": 105,
+      "msSinceStart": 163651
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 172.94096774193548,
+      "barCount": 111,
+      "msSinceStart": 172941
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 174.48935483870966,
+      "barCount": 112,
+      "msSinceStart": 174489
+    },
+    {
+      "phraseId": "drop",
+      "time": 199.26354838709676,
+      "barCount": 128,
+      "msSinceStart": 199264
+    },
+    {
+      "phraseId": "quiet",
+      "time": 227.13451612903225,
+      "barCount": 146,
+      "msSinceStart": 227135
+    }
+  ]
+}

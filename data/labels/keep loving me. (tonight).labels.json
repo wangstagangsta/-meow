@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "fileName": "keep loving me. (tonight).m4a",
+  "duration": 182.70745833333334,
+  "bpm": 155,
+  "downbeatOffset": -0.012222526322564209,
+  "cueTime": 63.47164844141937,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 12.374874247870984,
+      "barCount": 8,
+      "msSinceStart": 12375
+    },
+    {
+      "phraseId": "verse",
+      "time": 38.69745489303227,
+      "barCount": 25,
+      "msSinceStart": 38697
+    },
+    {
+      "phraseId": "lead",
+      "time": 51.08455166722582,
+      "barCount": 33,
+      "msSinceStart": 51085
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 60.37487424787098,
+      "barCount": 39,
+      "msSinceStart": 60375
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 63.47164844141937,
+      "barCount": 41,
+      "msSinceStart": 63472
+    },
+    {
+      "phraseId": "drop",
+      "time": 88.24584198980646,
+      "barCount": 57,
+      "msSinceStart": 88246
+    },
+    {
+      "phraseId": "bridge",
+      "time": 91.34261618335486,
+      "barCount": 59,
+      "msSinceStart": 91343
+    },
+    {
+      "phraseId": "verse",
+      "time": 120.76197102206453,
+      "barCount": 78,
+      "msSinceStart": 120762
+    },
+    {
+      "phraseId": "lead",
+      "time": 133.14906779625807,
+      "barCount": 86,
+      "msSinceStart": 133149
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 143.98777747367743,
+      "barCount": 93,
+      "msSinceStart": 143988
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 145.5361645704516,
+      "barCount": 94,
+      "msSinceStart": 145536
+    },
+    {
+      "phraseId": "drop",
+      "time": 170.3103581188387,
+      "barCount": 110,
+      "msSinceStart": 170310
+    },
+    {
+      "phraseId": "quiet",
+      "time": 182.69745489303227,
+      "barCount": 118,
+      "msSinceStart": 182697
+    }
+  ]
+}

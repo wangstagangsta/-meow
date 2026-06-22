@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "fileName": "Shivers.m4a",
+  "duration": 228.368,
+  "bpm": 160.0,
+  "downbeatOffset": 0.105,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 13.605,
+      "barCount": 9,
+      "msSinceStart": 13605
+    },
+    {
+      "phraseId": "lead",
+      "time": 28.605,
+      "barCount": 19,
+      "msSinceStart": 28605
+    },
+    {
+      "phraseId": "drop",
+      "time": 30.105,
+      "barCount": 20,
+      "msSinceStart": 30105
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 37.605,
+      "barCount": 25,
+      "msSinceStart": 37605
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 43.605,
+      "barCount": 29,
+      "msSinceStart": 43605
+    },
+    {
+      "phraseId": "drop",
+      "time": 55.605,
+      "barCount": 37,
+      "msSinceStart": 55605
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 60.105,
+      "barCount": 40,
+      "msSinceStart": 60105
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 61.605,
+      "barCount": 41,
+      "msSinceStart": 61605
+    },
+    {
+      "phraseId": "drop",
+      "time": 88.605,
+      "barCount": 59,
+      "msSinceStart": 88605
+    },
+    {
+      "phraseId": "bridge",
+      "time": 99.105,
+      "barCount": 66,
+      "msSinceStart": 99105
+    },
+    {
+      "phraseId": "quiet",
+      "time": 100.605,
+      "barCount": 67,
+      "msSinceStart": 100605
+    },
+    {
+      "phraseId": "verse",
+      "time": 150.105,
+      "barCount": 100,
+      "msSinceStart": 150105
+    },
+    {
+      "phraseId": "bridge",
+      "time": 151.605,
+      "barCount": 101,
+      "msSinceStart": 151605
+    },
+    {
+      "phraseId": "verse",
+      "time": 153.105,
+      "barCount": 102,
+      "msSinceStart": 153105
+    },
+    {
+      "phraseId": "lead",
+      "time": 168.105,
+      "barCount": 112,
+      "msSinceStart": 168105
+    },
+    {
+      "phraseId": "drop",
+      "time": 171.105,
+      "barCount": 114,
+      "msSinceStart": 171105
+    },
+    {
+      "phraseId": "lead",
+      "time": 177.105,
+      "barCount": 118,
+      "msSinceStart": 177105
+    },
+    {
+      "phraseId": "bridge",
+      "time": 180.105,
+      "barCount": 120,
+      "msSinceStart": 180105
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 190.605,
+      "barCount": 127,
+      "msSinceStart": 190605
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 196.605,
+      "barCount": 131,
+      "msSinceStart": 196605
+    },
+    {
+      "phraseId": "drop",
+      "time": 219.105,
+      "barCount": 146,
+      "msSinceStart": 219105
+    },
+    {
+      "phraseId": "quiet",
+      "time": 228.105,
+      "barCount": 152,
+      "msSinceStart": 228105
+    }
+  ]
+}

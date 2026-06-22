@@ -1,0 +1,107 @@
+{
+  "version": 3,
+  "fileName": "FALLING.m4a",
+  "duration": 186.03370833333332,
+  "bpm": 155,
+  "downbeatOffset": 1.5483870967741935,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 3.096774193548387,
+      "barCount": 1,
+      "msSinceStart": 3097
+    },
+    {
+      "phraseId": "quiet",
+      "time": 13.935483870967742,
+      "barCount": 8,
+      "msSinceStart": 13935
+    },
+    {
+      "phraseId": "verse",
+      "time": 27.87096774193548,
+      "barCount": 17,
+      "msSinceStart": 27871
+    },
+    {
+      "phraseId": "lead",
+      "time": 40.25806451612903,
+      "barCount": 25,
+      "msSinceStart": 40258
+    },
+    {
+      "phraseId": "verse",
+      "time": 52.64516129032258,
+      "barCount": 33,
+      "msSinceStart": 52645
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 63.483870967741936,
+      "barCount": 40,
+      "msSinceStart": 63484
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 65.03225806451613,
+      "barCount": 41,
+      "msSinceStart": 65032
+    },
+    {
+      "phraseId": "drop",
+      "time": 89.80645161290322,
+      "barCount": 57,
+      "msSinceStart": 89806
+    },
+    {
+      "phraseId": "bridge",
+      "time": 103.74193548387096,
+      "barCount": 66,
+      "msSinceStart": 103742
+    },
+    {
+      "phraseId": "verse",
+      "time": 117.6774193548387,
+      "barCount": 75,
+      "msSinceStart": 117677
+    },
+    {
+      "phraseId": "bridge",
+      "time": 130.06451612903226,
+      "barCount": 83,
+      "msSinceStart": 130065
+    },
+    {
+      "phraseId": "verse",
+      "time": 142.45161290322582,
+      "barCount": 91,
+      "msSinceStart": 142452
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 153.29032258064518,
+      "barCount": 98,
+      "msSinceStart": 153290
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 154.83870967741936,
+      "barCount": 99,
+      "msSinceStart": 154839
+    },
+    {
+      "phraseId": "drop",
+      "time": 179.61290322580646,
+      "barCount": 115,
+      "msSinceStart": 179613
+    },
+    {
+      "phraseId": "quiet",
+      "time": 186.0336875,
+      "barCount": 119,
+      "msSinceStart": 186034
+    }
+  ]
+}

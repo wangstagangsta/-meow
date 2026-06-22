@@ -1,0 +1,66 @@
+Data:
+  - 19 tracks, 2530 bars total
+  - 6 classes: bridge, quiet, drop, lead, verse, buildUp
+  - Class imbalance is significant — bridge+quiet make up ~75% of bars
+
+  Results (validation, 4 tracks):
+
+  ┌─────────┬──────────┐
+  │  Label  │ Accuracy │
+  ├─────────┼──────────┤
+  │ quiet   │ 72.7%    │
+  ├─────────┼──────────┤
+  │ bridge  │ 68.6%    │
+  ├─────────┼──────────┤
+  │ buildUp │ 66.7%    │
+  ├─────────┼──────────┤
+  │ lead    │ 61.7%    │
+  ├─────────┼──────────┤
+  │ drop    │ 50.0%    │
+  ├─────────┼──────────┤
+  │ verse   │ 7.1%     │
+  └─────────┴──────────┘
+
+  Overall per-track accuracy is ~57–76%. verse basically fails, likely because it only has 90 samples total.
+
+
+==================================================
+v2  (2026-06-19 17:09)
+--------------------------------------------------
+model desc:
+  MLPClassifier
+config:
+  SR            = 22050
+  N_MELS        = 64
+  CONTEXT_BARS  = 8
+  hidden_layers = (256, 128)
+data:
+  tracks  = 64 (train 51 / val 13)
+  bars    = 8009
+  classes (7): bridge, buildUp, drop, lead, preDropFill, quiet, verse
+results (validation):
+  overall = 72.8%
+  per-label:
+    verse         85.5%   (n=2449)
+    drop          82.5%   (n=2146)
+    quiet         81.2%   (n=819)
+    bridge        64.5%   (n=387)
+    preDropFill   60.0%   (n=239)
+    buildUp       49.0%   (n=961)
+    lead          41.1%   (n=1008)
+  per-track:
+    365                                100.0%
+    Open Your Mind                      86.2%
+    Dreamers Delight                    84.3%
+    Sharks                              83.5%
+    blame game.                         74.8%
+    Recover Me                          72.4%
+    BREATH_LESS                         71.3%
+    I Raise My Glass                    68.2%
+    Everything Is Not Lost              66.0%
+    i need you. (outroduction)          64.6%
+    memories.                           61.9%
+    City Lights                         59.5%
+    WAKE UP                             51.4%
+notes: same as V1, just more data
+==================================================

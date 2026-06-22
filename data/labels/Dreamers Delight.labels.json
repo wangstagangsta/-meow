@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "fileName": "Dreamers Delight.m4a",
+  "duration": 195.018875,
+  "bpm": 155,
+  "downbeatOffset": -0.7742772711512217,
+  "cueTime": 87.4837872449778,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 13.16120659981652,
+      "barCount": 9,
+      "msSinceStart": 13161
+    },
+    {
+      "phraseId": "verse",
+      "time": 62.709593696590716,
+      "barCount": 41,
+      "msSinceStart": 62710
+    },
+    {
+      "phraseId": "lead",
+      "time": 75.09669047078427,
+      "barCount": 49,
+      "msSinceStart": 75097
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 85.93540014820361,
+      "barCount": 56,
+      "msSinceStart": 85935
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 87.4837872449778,
+      "barCount": 57,
+      "msSinceStart": 87484
+    },
+    {
+      "phraseId": "drop",
+      "time": 112.25798079336491,
+      "barCount": 73,
+      "msSinceStart": 112258
+    },
+    {
+      "phraseId": "verse",
+      "time": 149.41927111594555,
+      "barCount": 97,
+      "msSinceStart": 149419
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 160.2579807933649,
+      "barCount": 104,
+      "msSinceStart": 160258
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 161.8063678901391,
+      "barCount": 105,
+      "msSinceStart": 161806
+    },
+    {
+      "phraseId": "drop",
+      "time": 185.032174341752,
+      "barCount": 120,
+      "msSinceStart": 185032
+    },
+    {
+      "phraseId": "quiet",
+      "time": 195.018875,
+      "barCount": 126,
+      "msSinceStart": 195019
+    }
+  ]
+}

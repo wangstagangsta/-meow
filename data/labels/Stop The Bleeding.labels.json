@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "fileName": "Stop The Bleeding.m4a",
+  "duration": 180.02341666666666,
+  "bpm": 160,
+  "downbeatOffset": -0.00006225450359442775,
+  "cueTime": 79.49993774549641,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 7.499937745496405,
+      "barCount": 5,
+      "msSinceStart": 7500
+    },
+    {
+      "phraseId": "verse",
+      "time": 43.4999377454964,
+      "barCount": 29,
+      "msSinceStart": 43500
+    },
+    {
+      "phraseId": "lead",
+      "time": 67.49993774549641,
+      "barCount": 45,
+      "msSinceStart": 67500
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 76.49993774549641,
+      "barCount": 51,
+      "msSinceStart": 76500
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 79.49993774549641,
+      "barCount": 53,
+      "msSinceStart": 79500
+    },
+    {
+      "phraseId": "drop",
+      "time": 103.49993774549641,
+      "barCount": 69,
+      "msSinceStart": 103500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 115.49993774549641,
+      "barCount": 77,
+      "msSinceStart": 115500
+    },
+    {
+      "phraseId": "verse",
+      "time": 126.74993774549641,
+      "barCount": 85,
+      "msSinceStart": 126750
+    },
+    {
+      "phraseId": "lead",
+      "time": 139.4999377454964,
+      "barCount": 93,
+      "msSinceStart": 139500
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 148.4999377454964,
+      "barCount": 99,
+      "msSinceStart": 148500
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 151.4999377454964,
+      "barCount": 101,
+      "msSinceStart": 151500
+    },
+    {
+      "phraseId": "drop",
+      "time": 173.9999377454964,
+      "barCount": 116,
+      "msSinceStart": 174000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 179.9999377454964,
+      "barCount": 120,
+      "msSinceStart": 180000
+    }
+  ]
+}

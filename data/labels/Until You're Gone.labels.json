@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "fileName": "Until You're Gone.m4a",
+  "duration": 175.5,
+  "bpm": 160,
+  "downbeatOffset": 0,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 6,
+      "barCount": 4,
+      "msSinceStart": 6000
+    },
+    {
+      "phraseId": "verse",
+      "time": 33,
+      "barCount": 22,
+      "msSinceStart": 33000
+    },
+    {
+      "phraseId": "bridge",
+      "time": 34.5,
+      "barCount": 23,
+      "msSinceStart": 34500
+    },
+    {
+      "phraseId": "lead",
+      "time": 46.5,
+      "barCount": 31,
+      "msSinceStart": 46500
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 58.5,
+      "barCount": 39,
+      "msSinceStart": 58500
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 64.5,
+      "barCount": 43,
+      "msSinceStart": 64500
+    },
+    {
+      "phraseId": "drop",
+      "time": 88.5,
+      "barCount": 59,
+      "msSinceStart": 88500
+    },
+    {
+      "phraseId": "bridge",
+      "time": 106.5,
+      "barCount": 71,
+      "msSinceStart": 106500
+    },
+    {
+      "phraseId": "verse",
+      "time": 118.5,
+      "barCount": 79,
+      "msSinceStart": 118500
+    },
+    {
+      "phraseId": "lead",
+      "time": 130.5,
+      "barCount": 87,
+      "msSinceStart": 130500
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 142.5,
+      "barCount": 95,
+      "msSinceStart": 142500
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 148.5,
+      "barCount": 99,
+      "msSinceStart": 148500
+    },
+    {
+      "phraseId": "drop",
+      "time": 171,
+      "barCount": 114,
+      "msSinceStart": 171000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 175.5,
+      "barCount": 117,
+      "msSinceStart": 175500
+    }
+  ]
+}

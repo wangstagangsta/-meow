@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "One Last Midnight.m4a",
+  "duration": 144.0829375,
+  "bpm": 175,
+  "downbeatOffset": 0.08704733401536942,
+  "cueTime": 0.08704733401536942,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 16.544190191158226,
+      "barCount": 12,
+      "msSinceStart": 16544
+    },
+    {
+      "phraseId": "verse",
+      "time": 38.487047334015365,
+      "barCount": 28,
+      "msSinceStart": 38487
+    },
+    {
+      "phraseId": "lead",
+      "time": 49.45847590544394,
+      "barCount": 36,
+      "msSinceStart": 49458
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 57.68704733401537,
+      "barCount": 42,
+      "msSinceStart": 57687
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 60.42990447687251,
+      "barCount": 44,
+      "msSinceStart": 60430
+    },
+    {
+      "phraseId": "drop",
+      "time": 82.37276161972966,
+      "barCount": 60,
+      "msSinceStart": 82373
+    },
+    {
+      "phraseId": "bridge",
+      "time": 83.74419019115822,
+      "barCount": 61,
+      "msSinceStart": 83744
+    },
+    {
+      "phraseId": "verse",
+      "time": 105.68704733401536,
+      "barCount": 77,
+      "msSinceStart": 105687
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 113.9156187625868,
+      "barCount": 83,
+      "msSinceStart": 113916
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 116.65847590544394,
+      "barCount": 85,
+      "msSinceStart": 116658
+    },
+    {
+      "phraseId": "drop",
+      "time": 135.85847590544395,
+      "barCount": 99,
+      "msSinceStart": 135858
+    },
+    {
+      "phraseId": "quiet",
+      "time": 144.0829375,
+      "barCount": 105,
+      "msSinceStart": 144083
+    }
+  ]
+}

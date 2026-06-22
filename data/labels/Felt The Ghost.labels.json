@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "Felt The Ghost.m4a",
+  "duration": 160.0464375,
+  "bpm": 180,
+  "downbeatOffset": 1.380534009929959,
+  "cueTime": 85.38053400992996,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 10.713867343263292,
+      "barCount": 7,
+      "msSinceStart": 10714
+    },
+    {
+      "phraseId": "verse",
+      "time": 53.38053400992996,
+      "barCount": 39,
+      "msSinceStart": 53381
+    },
+    {
+      "phraseId": "bridge",
+      "time": 58.71386734326329,
+      "barCount": 43,
+      "msSinceStart": 58714
+    },
+    {
+      "phraseId": "lead",
+      "time": 69.38053400992996,
+      "barCount": 51,
+      "msSinceStart": 69381
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 80.04720067659662,
+      "barCount": 59,
+      "msSinceStart": 80047
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 85.38053400992996,
+      "barCount": 63,
+      "msSinceStart": 85381
+    },
+    {
+      "phraseId": "drop",
+      "time": 106.71386734326329,
+      "barCount": 79,
+      "msSinceStart": 106714
+    },
+    {
+      "phraseId": "verse",
+      "time": 117.38053400992996,
+      "barCount": 87,
+      "msSinceStart": 117381
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 128.04720067659662,
+      "barCount": 95,
+      "msSinceStart": 128047
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 133.38053400992996,
+      "barCount": 99,
+      "msSinceStart": 133381
+    },
+    {
+      "phraseId": "drop",
+      "time": 154.71386734326327,
+      "barCount": 115,
+      "msSinceStart": 154714
+    },
+    {
+      "phraseId": "quiet",
+      "time": 160.0464375,
+      "barCount": 119,
+      "msSinceStart": 160046
+    }
+  ]
+}

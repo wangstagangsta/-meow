@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "The Dream Where I Never Died.m4a",
+  "duration": 149.99997916666666,
+  "bpm": 160,
+  "downbeatOffset": -0.00006225450359442775,
+  "cueTime": 111.37493774549641,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 2.9999377454964056,
+      "barCount": 2,
+      "msSinceStart": 3000
+    },
+    {
+      "phraseId": "verse",
+      "time": 26.999937745496407,
+      "barCount": 18,
+      "msSinceStart": 27000
+    },
+    {
+      "phraseId": "lead",
+      "time": 38.9999377454964,
+      "barCount": 26,
+      "msSinceStart": 39000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 49.4999377454964,
+      "barCount": 33,
+      "msSinceStart": 49500
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 50.9999377454964,
+      "barCount": 34,
+      "msSinceStart": 51000
+    },
+    {
+      "phraseId": "drop",
+      "time": 74.99993774549641,
+      "barCount": 50,
+      "msSinceStart": 75000
+    },
+    {
+      "phraseId": "verse",
+      "time": 86.99993774549641,
+      "barCount": 58,
+      "msSinceStart": 87000
+    },
+    {
+      "phraseId": "lead",
+      "time": 98.99993774549641,
+      "barCount": 66,
+      "msSinceStart": 99000
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 109.49993774549641,
+      "barCount": 73,
+      "msSinceStart": 109500
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 111.37493774549641,
+      "barCount": 74,
+      "msSinceStart": 111375
+    },
+    {
+      "phraseId": "drop",
+      "time": 134.9999377454964,
+      "barCount": 90,
+      "msSinceStart": 135000
+    },
+    {
+      "phraseId": "quiet",
+      "time": 149.9999377454964,
+      "barCount": 100,
+      "msSinceStart": 150000
+    }
+  ]
+}

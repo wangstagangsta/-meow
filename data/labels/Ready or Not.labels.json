@@ -1,7 +1,7 @@
 {
-  "version": 2,
+  "version": 3,
   "fileName": "Ready or Not.m4a",
-  "duration": 128.26702083333333,
+  "duration": 128.27225,
   "bpm": 155,
   "downbeatOffset": -0.05354777410985562,
   "cueTime": 97.49483932266433,
@@ -9,57 +9,51 @@
   "phraseMarkers": [
     {
       "phraseId": "quiet",
-      "time": 34.0109683549224,
-      "barCount": 22,
-      "msSinceStart": 34010.968
+      "time": 9.236774806535305,
+      "barCount": 6,
+      "msSinceStart": 9237
+    },
+    {
+      "phraseId": "verse",
+      "time": 41.752903838793365,
+      "barCount": 27,
+      "msSinceStart": 41753
     },
     {
       "phraseId": "bridge",
       "time": 47.94645222589014,
       "barCount": 31,
-      "msSinceStart": 47946.452
+      "msSinceStart": 47946
     },
     {
       "phraseId": "lead",
       "time": 72.72064577427723,
       "barCount": 47,
-      "msSinceStart": 72720.646
+      "msSinceStart": 72721
     },
     {
       "phraseId": "buildUp",
       "time": 95.94645222589014,
       "barCount": 62,
-      "msSinceStart": 95946.452
+      "msSinceStart": 95946
     },
     {
-      "phraseId": "bridge",
+      "phraseId": "preDropFill",
       "time": 97.49483932266433,
       "barCount": 63,
-      "msSinceStart": 97494.839
+      "msSinceStart": 97495
     },
     {
       "phraseId": "drop",
-      "time": 108.33354900008369,
-      "barCount": 70,
-      "msSinceStart": 108333.549
+      "time": 122.26903287105142,
+      "barCount": 79,
+      "msSinceStart": 122269
     },
     {
-      "phraseId": "bridge",
-      "time": 109.88193609685788,
-      "barCount": 71,
-      "msSinceStart": 109881.936
-    },
-    {
-      "phraseId": "drop",
-      "time": 119.17225867750304,
-      "barCount": 77,
-      "msSinceStart": 119172.259
-    },
-    {
-      "phraseId": "bridge",
-      "time": 125.36580706459982,
-      "barCount": 81,
-      "msSinceStart": 125365.807
+      "phraseId": "quiet",
+      "time": 128.27225,
+      "barCount": 83,
+      "msSinceStart": 128272
     }
   ]
 }

@@ -1,0 +1,173 @@
+{
+  "version": 3,
+  "fileName": "Fire In My Veins.mp3",
+  "duration": 121.06666666666666,
+  "bpm": 160.0,
+  "downbeatOffset": 0.975,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 2.475,
+      "barCount": 1,
+      "msSinceStart": 2475
+    },
+    {
+      "phraseId": "verse",
+      "time": 3.975,
+      "barCount": 2,
+      "msSinceStart": 3975
+    },
+    {
+      "phraseId": "quiet",
+      "time": 5.475,
+      "barCount": 3,
+      "msSinceStart": 5475
+    },
+    {
+      "phraseId": "verse",
+      "time": 8.475,
+      "barCount": 5,
+      "msSinceStart": 8475
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 9.975,
+      "barCount": 6,
+      "msSinceStart": 9975
+    },
+    {
+      "phraseId": "verse",
+      "time": 17.475,
+      "barCount": 11,
+      "msSinceStart": 17475
+    },
+    {
+      "phraseId": "drop",
+      "time": 23.475,
+      "barCount": 15,
+      "msSinceStart": 23475
+    },
+    {
+      "phraseId": "bridge",
+      "time": 26.475,
+      "barCount": 17,
+      "msSinceStart": 26475
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 29.475,
+      "barCount": 19,
+      "msSinceStart": 29475
+    },
+    {
+      "phraseId": "quiet",
+      "time": 30.975,
+      "barCount": 20,
+      "msSinceStart": 30975
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 33.975,
+      "barCount": 22,
+      "msSinceStart": 33975
+    },
+    {
+      "phraseId": "drop",
+      "time": 41.475,
+      "barCount": 27,
+      "msSinceStart": 41475
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 42.975,
+      "barCount": 28,
+      "msSinceStart": 42975
+    },
+    {
+      "phraseId": "drop",
+      "time": 47.475,
+      "barCount": 31,
+      "msSinceStart": 47475
+    },
+    {
+      "phraseId": "lead",
+      "time": 48.975,
+      "barCount": 32,
+      "msSinceStart": 48975
+    },
+    {
+      "phraseId": "drop",
+      "time": 50.475,
+      "barCount": 33,
+      "msSinceStart": 50475
+    },
+    {
+      "phraseId": "verse",
+      "time": 54.975,
+      "barCount": 36,
+      "msSinceStart": 54975
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 60.975,
+      "barCount": 40,
+      "msSinceStart": 60975
+    },
+    {
+      "phraseId": "drop",
+      "time": 68.475,
+      "barCount": 45,
+      "msSinceStart": 68475
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 74.475,
+      "barCount": 49,
+      "msSinceStart": 74475
+    },
+    {
+      "phraseId": "drop",
+      "time": 81.975,
+      "barCount": 54,
+      "msSinceStart": 81975
+    },
+    {
+      "phraseId": "verse",
+      "time": 83.475,
+      "barCount": 55,
+      "msSinceStart": 83475
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 89.475,
+      "barCount": 59,
+      "msSinceStart": 89475
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 92.475,
+      "barCount": 61,
+      "msSinceStart": 92475
+    },
+    {
+      "phraseId": "drop",
+      "time": 104.475,
+      "barCount": 69,
+      "msSinceStart": 104475
+    },
+    {
+      "phraseId": "lead",
+      "time": 105.975,
+      "barCount": 70,
+      "msSinceStart": 105975
+    },
+    {
+      "phraseId": "drop",
+      "time": 120.975,
+      "barCount": 80,
+      "msSinceStart": 120975
+    }
+  ]
+}

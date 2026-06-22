@@ -1,0 +1,101 @@
+{
+  "version": 3,
+  "fileName": "Landmines.m4a",
+  "duration": 218.32254166666667,
+  "bpm": 155,
+  "downbeatOffset": 0.0001667095686132547,
+  "cueTime": 97.54855380634281,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 7.742102193439581,
+      "barCount": 5,
+      "msSinceStart": 7742
+    },
+    {
+      "phraseId": "verse",
+      "time": 60.387263483762155,
+      "barCount": 39,
+      "msSinceStart": 60387
+    },
+    {
+      "phraseId": "lead",
+      "time": 85.16145703214926,
+      "barCount": 55,
+      "msSinceStart": 85161
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 94.45177961279443,
+      "barCount": 61,
+      "msSinceStart": 94452
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 97.54855380634281,
+      "barCount": 63,
+      "msSinceStart": 97549
+    },
+    {
+      "phraseId": "drop",
+      "time": 122.3227473547299,
+      "barCount": 79,
+      "msSinceStart": 122323
+    },
+    {
+      "phraseId": "bridge",
+      "time": 125.4195215482783,
+      "barCount": 81,
+      "msSinceStart": 125420
+    },
+    {
+      "phraseId": "verse",
+      "time": 150.1937150966654,
+      "barCount": 97,
+      "msSinceStart": 150194
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 161.03242477408475,
+      "barCount": 104,
+      "msSinceStart": 161032
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 165.67758606440734,
+      "barCount": 107,
+      "msSinceStart": 165678
+    },
+    {
+      "phraseId": "drop",
+      "time": 178.06468283860087,
+      "barCount": 115,
+      "msSinceStart": 178065
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 182.70984412892346,
+      "barCount": 118,
+      "msSinceStart": 182710
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 184.25823122569764,
+      "barCount": 119,
+      "msSinceStart": 184258
+    },
+    {
+      "phraseId": "drop",
+      "time": 209.03242477408475,
+      "barCount": 135,
+      "msSinceStart": 209032
+    },
+    {
+      "phraseId": "quiet",
+      "time": 218.32254166666667,
+      "barCount": 141,
+      "msSinceStart": 218323
+    }
+  ]
+}
