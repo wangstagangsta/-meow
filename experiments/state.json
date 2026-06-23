@@ -1,0 +1,95 @@
+{
+  "completed": [
+    "EXP-0",
+    "EXP-1",
+    "EXP-2",
+    "EXP-3",
+    "EXP-4",
+    "EXP-5",
+    "EXP-6",
+    "EXP-7",
+    "EXP-8",
+    "EXP-9",
+    "EXP-10",
+    "EXP-11",
+    "EXP-12a",
+    "EXP-12b",
+    "EXP-12c",
+    "EXP-9v"
+  ],
+  "current_baseline_config": {
+    "exp_id": "EXP-0",
+    "features": [
+      "log_mel_mean_std"
+    ],
+    "CONTEXT_BARS": 8,
+    "N_MELS": 64,
+    "SR": 22050,
+    "BEATS_PER_BAR": 4,
+    "hop_length": 512,
+    "n_fft": 2048,
+    "model": "MLPClassifier",
+    "hidden_layers": [
+      256,
+      128
+    ],
+    "activation": "relu",
+    "solver": "adam",
+    "learning_rate_init": 0.001,
+    "max_iter": 200,
+    "early_stopping": true,
+    "imbalance": "compute_sample_weight(balanced)",
+    "RANDOM_STATE": 42,
+    "fold_seed": 2024,
+    "n_folds": 5,
+    "per_track_normalization": false
+  },
+  "best_config": {
+    "use_logmel": true,
+    "scalar_cols": [
+      "rms_mean",
+      "rms_std",
+      "onset_density",
+      "centroid_mean",
+      "zcr_mean"
+    ],
+    "per_track_norm": true,
+    "add_delta": false,
+    "add_position": false,
+    "context_bars": 8,
+    "model": "xgboost",
+    "viterbi": true
+  },
+  "best_macro_f1": 0.8418,
+  "best_exp_id": "EXP-9v",
+  "current_baseline_f1s": [
+    0.7340973809584604,
+    0.7323727902777966,
+    0.7760182521319514,
+    0.7868077892588836,
+    0.8208318889864692
+  ],
+  "current_baseline_metrics": {
+    "boundary_f1_mean": 0.6543436773863913,
+    "boundary_f1_std": 0.05022098992527031,
+    "per_class_mean": {
+      "bridge": 0.6418155345078371,
+      "buildUp": 0.7550895344444047,
+      "drop": 0.8848789105400217,
+      "lead": 0.7439083606147925,
+      "preDropFill": 0.6687793357559452,
+      "quiet": 0.8665997478901296,
+      "verse": 0.8291079185058547
+    }
+  },
+  "current_feature_spec": {
+    "use_logmel": true,
+    "scalar_cols": [],
+    "per_track_norm": true,
+    "add_delta": false,
+    "add_position": false,
+    "context_bars": 8
+  },
+  "current_model": "rf",
+  "rf_promising": true
+}

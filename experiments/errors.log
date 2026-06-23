@@ -1,0 +1,73 @@
+
+[2026-06-23 02:15] EXP-0:
+Traceback (most recent call last):
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/experiments/exp0_baseline.py", line 116, in main
+    metrics = H.run_cv(
+        bar_df=bar_df,
+    ...<2 lines>...
+        label_classes=ALL_CLASSES,
+    )
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/experiments/harness.py", line 236, in run_cv
+    c: f1_score(y_val_str, y_pred_str, average="binary",
+       ~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                pos_label=c, zero_division=0)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/.venv/lib/python3.14/site-packages/sklearn/utils/_param_validation.py", line 218, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/.venv/lib/python3.14/site-packages/sklearn/metrics/_classification.py", line 1611, in f1_score
+    return fbeta_score(
+        y_true,
+    ...<6 lines>...
+        zero_division=zero_division,
+    )
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/.venv/lib/python3.14/site-packages/sklearn/utils/_param_validation.py", line 191, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/.venv/lib/python3.14/site-packages/sklearn/metrics/_classification.py", line 1831, in fbeta_score
+    _, _, f, _ = precision_recall_fscore_support(
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^
+        y_true,
+        ^^^^^^^
+    ...<7 lines>...
+        zero_division=zero_division,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/.venv/lib/python3.14/site-packages/sklearn/utils/_param_validation.py", line 191, in wrapper
+    return func(*args, **kwargs)
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/.venv/lib/python3.14/site-packages/sklearn/metrics/_classification.py", line 2145, in precision_recall_fscore_support
+    labels = _check_set_wise_labels(y_true, y_pred, average, labels, pos_label)
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/.venv/lib/python3.14/site-packages/sklearn/metrics/_classification.py", line 1924, in _check_set_wise_labels
+    raise ValueError(
+    ...<2 lines>...
+    )
+ValueError: Target is multiclass but average='binary'. Please choose another average setting, one of [None, 'micro', 'macro', 'weighted'].
+
+
+[2026-06-23 02:16] EXP-0:
+Traceback (most recent call last):
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/experiments/exp0_baseline.py", line 116, in main
+    metrics = H.run_cv(
+        bar_df=bar_df,
+    ...<2 lines>...
+        label_classes=ALL_CLASSES,
+    )
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/experiments/harness.py", line 256, in run_cv
+    b_f1s.append(boundary_f1(y_true_t, y_pred_t))
+                 ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/experiments/harness.py", line 99, in boundary_f1
+    true_b = compute_boundaries(true_labels)
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/experiments/harness.py", line 90, in compute_boundaries
+    boundaries = np.where(np.diff(labels) != 0)[0] + 1
+                          ~~~~~~~^^^^^^^^
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/.venv/lib/python3.14/site-packages/numpy/lib/_function_base_impl.py", line 1529, in diff
+    a = op(a[slice1], a[slice2])
+numpy._core._exceptions._UFuncNoLoopError: ufunc 'subtract' did not contain a loop with signature matching types (dtype('<U11'), dtype('<U11')) -> None
+
+
+[2026-06-23 02:17] EXP-0:
+Traceback (most recent call last):
+  File "/Users/eerr/Documents/Projects/Timecode/-meow/experiments/exp0_baseline.py", line 143, in main
+    joblib.dump(
+    ^^^^^^
+NameError: name 'joblib' is not defined
+

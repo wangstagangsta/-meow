@@ -1,0 +1,8 @@
+                    bridge        buildUp           drop           lead    preDropFill          quiet          verse
+       bridge             29              0              0              1              0              6              6
+      buildUp              5            152              6              9              4              0             13
+         drop              0             23            329             35              7             14              9
+         lead              4             37             18            126              5              0             12
+  preDropFill              0             12              2              1             26              0              0
+        quiet              4              0              6              0              0            138              7
+        verse             27             29             30             33              4             16            464
