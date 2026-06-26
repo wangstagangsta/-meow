@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "fileName": "Headhunterz - Live Forever (Official Videoclip).m4a",
+  "duration": 221.53,
+  "bpm": 155.0,
+  "downbeatOffset": 1.07,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 15.005483870967742,
+      "barCount": 9,
+      "msSinceStart": 15005
+    },
+    {
+      "phraseId": "verse",
+      "time": 44.42483870967742,
+      "barCount": 28,
+      "msSinceStart": 44425
+    },
+    {
+      "phraseId": "lead",
+      "time": 56.81193548387097,
+      "barCount": 36,
+      "msSinceStart": 56812
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 75.39258064516127,
+      "barCount": 48,
+      "msSinceStart": 75393
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 76.94096774193548,
+      "barCount": 49,
+      "msSinceStart": 76941
+    },
+    {
+      "phraseId": "drop",
+      "time": 103.26354838709676,
+      "barCount": 66,
+      "msSinceStart": 103264
+    },
+    {
+      "phraseId": "bridge",
+      "time": 106.36032258064515,
+      "barCount": 68,
+      "msSinceStart": 106360
+    },
+    {
+      "phraseId": "verse",
+      "time": 121.84419354838708,
+      "barCount": 78,
+      "msSinceStart": 121844
+    },
+    {
+      "phraseId": "lead",
+      "time": 131.13451612903225,
+      "barCount": 84,
+      "msSinceStart": 131135
+    },
+    {
+      "phraseId": "verse",
+      "time": 154.36032258064515,
+      "barCount": 99,
+      "msSinceStart": 154360
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 163.6506451612903,
+      "barCount": 105,
+      "msSinceStart": 163651
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 166.7474193548387,
+      "barCount": 107,
+      "msSinceStart": 166747
+    },
+    {
+      "phraseId": "drop",
+      "time": 169.8441935483871,
+      "barCount": 109,
+      "msSinceStart": 169844
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 179.13451612903225,
+      "barCount": 115,
+      "msSinceStart": 179135
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 180.68290322580643,
+      "barCount": 116,
+      "msSinceStart": 180683
+    },
+    {
+      "phraseId": "drop",
+      "time": 205.45709677419353,
+      "barCount": 132,
+      "msSinceStart": 205457
+    },
+    {
+      "phraseId": "quiet",
+      "time": 220.94096774193548,
+      "barCount": 142,
+      "msSinceStart": 220941
+    }
+  ]
+}

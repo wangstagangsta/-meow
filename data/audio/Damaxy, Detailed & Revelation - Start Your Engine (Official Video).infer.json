@@ -1,0 +1,131 @@
+{
+  "version": 3,
+  "fileName": "Damaxy, Detailed & Revelation - Start Your Engine (Official Video).m4a",
+  "duration": 252.006,
+  "bpm": 160.0,
+  "downbeatOffset": 0.021,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 10.521,
+      "barCount": 7,
+      "msSinceStart": 10521
+    },
+    {
+      "phraseId": "verse",
+      "time": 19.521,
+      "barCount": 13,
+      "msSinceStart": 19521
+    },
+    {
+      "phraseId": "bridge",
+      "time": 25.521,
+      "barCount": 17,
+      "msSinceStart": 25521
+    },
+    {
+      "phraseId": "lead",
+      "time": 40.521,
+      "barCount": 27,
+      "msSinceStart": 40521
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 49.521,
+      "barCount": 33,
+      "msSinceStart": 49521
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 54.021,
+      "barCount": 36,
+      "msSinceStart": 54021
+    },
+    {
+      "phraseId": "drop",
+      "time": 66.021,
+      "barCount": 44,
+      "msSinceStart": 66021
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 70.521,
+      "barCount": 47,
+      "msSinceStart": 70521
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 75.021,
+      "barCount": 50,
+      "msSinceStart": 75021
+    },
+    {
+      "phraseId": "drop",
+      "time": 99.021,
+      "barCount": 66,
+      "msSinceStart": 99021
+    },
+    {
+      "phraseId": "bridge",
+      "time": 108.021,
+      "barCount": 72,
+      "msSinceStart": 108021
+    },
+    {
+      "phraseId": "verse",
+      "time": 124.521,
+      "barCount": 83,
+      "msSinceStart": 124521
+    },
+    {
+      "phraseId": "lead",
+      "time": 174.021,
+      "barCount": 116,
+      "msSinceStart": 174021
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 178.521,
+      "barCount": 119,
+      "msSinceStart": 178521
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 186.021,
+      "barCount": 124,
+      "msSinceStart": 186021
+    },
+    {
+      "phraseId": "drop",
+      "time": 211.521,
+      "barCount": 141,
+      "msSinceStart": 211521
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 220.521,
+      "barCount": 147,
+      "msSinceStart": 220521
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 225.021,
+      "barCount": 150,
+      "msSinceStart": 225021
+    },
+    {
+      "phraseId": "drop",
+      "time": 246.021,
+      "barCount": 164,
+      "msSinceStart": 246021
+    },
+    {
+      "phraseId": "quiet",
+      "time": 250.521,
+      "barCount": 167,
+      "msSinceStart": 250521
+    }
+  ]
+}

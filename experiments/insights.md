@@ -92,3 +92,27 @@ features, ±Viterbi, vs EXP-12a (0.815) / EXP-12c (0.815 macro / 0.746 boundary)
 [2026-06-23 03:12] EXP-9 (XGBoost + norm + all scalars): macroF1=0.8343 boundaryF1=0.7405. CANDIDATE. XGB macro 0.8343 vs RF 0.8145; boundary 0.7405 vs RF 0.7162
 
 [2026-06-23 03:16] EXP-9v (XGBoost + norm + all scalars + Viterbi): macroF1=0.8418 boundaryF1=0.7923. CANDIDATE. XGB macro 0.8418 vs RF 0.8151; boundary 0.7923 vs RF 0.7457
+
+[2026-06-23 19:16] TUNE-xgb[0] {'max_depth': 6, 'learning_rate': 0.1, 'n_estimators': 300}: macro=0.8360 boundary=0.7887
+
+[2026-06-23 19:21] TUNE-xgb[1] {'max_depth': 4, 'learning_rate': 0.05, 'n_estimators': 600}: macro=0.8332 boundary=0.7827
+
+[2026-06-23 19:28] TUNE-xgb[2] {'max_depth': 6, 'learning_rate': 0.05, 'n_estimators': 600}: macro=0.8338 boundary=0.7863
+
+[2026-06-23 19:35] TUNE-xgb[3] {'max_depth': 8, 'learning_rate': 0.05, 'n_estimators': 400}: macro=0.8341 boundary=0.7844
+
+[2026-06-23 19:40] TUNE-xgb[4] {'max_depth': 6, 'learning_rate': 0.1, 'n_estimators': 600, 'min_child_weight': 3}: macro=0.8391 boundary=0.7859
+
+[2026-06-23 19:48] TUNE-xgb[5] {'max_depth': 5, 'learning_rate': 0.05, 'n_estimators': 600, 'reg_lambda': 3.0}: macro=0.8337 boundary=0.7763
+
+[2026-06-23 19:48] TUNE-stick alpha=0.0: macro=0.8391 boundary=0.7859
+
+[2026-06-23 19:48] TUNE-stick alpha=0.5: macro=0.8391 boundary=0.7858
+
+[2026-06-23 19:48] TUNE-stick alpha=1.0: macro=0.8401 boundary=0.7898
+
+[2026-06-23 19:48] TUNE-stick alpha=2.0: macro=0.8392 boundary=0.7871
+
+[2026-06-23 19:48] TUNE-stick alpha=5.0: macro=0.8381 boundary=0.7859
+
+[2026-06-23 19:48] TUNE-stick alpha=10.0: macro=0.8373 boundary=0.7832

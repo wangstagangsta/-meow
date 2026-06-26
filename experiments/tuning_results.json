@@ -1,0 +1,124 @@
+{
+  "grid": [
+    {
+      "params": {
+        "max_depth": 6,
+        "learning_rate": 0.1,
+        "n_estimators": 300
+      },
+      "macro": 0.8360347581368008,
+      "macro_std": 0.03383364484034591,
+      "boundary": 0.7886798254997709,
+      "drop_err": 0.0,
+      "time": 211.34320483298507
+    },
+    {
+      "params": {
+        "max_depth": 4,
+        "learning_rate": 0.05,
+        "n_estimators": 600
+      },
+      "macro": 0.8332223417270186,
+      "macro_std": 0.03623290955534432,
+      "boundary": 0.7826761657896049,
+      "drop_err": 0.0,
+      "time": 337.89470070798416
+    },
+    {
+      "params": {
+        "max_depth": 6,
+        "learning_rate": 0.05,
+        "n_estimators": 600
+      },
+      "macro": 0.8337781437454372,
+      "macro_std": 0.03042610679857447,
+      "boundary": 0.7862512320465551,
+      "drop_err": 0.0,
+      "time": 430.67763216700405
+    },
+    {
+      "params": {
+        "max_depth": 8,
+        "learning_rate": 0.05,
+        "n_estimators": 400
+      },
+      "macro": 0.8341289369971682,
+      "macro_std": 0.035120977940437274,
+      "boundary": 0.784402990731097,
+      "drop_err": 0.0,
+      "time": 396.5035058329813
+    },
+    {
+      "params": {
+        "max_depth": 6,
+        "learning_rate": 0.1,
+        "n_estimators": 600,
+        "min_child_weight": 3
+      },
+      "macro": 0.8390910408630745,
+      "macro_std": 0.03076951143518314,
+      "boundary": 0.7858876078255836,
+      "drop_err": 0.0,
+      "time": 256.12100191699574
+    },
+    {
+      "params": {
+        "max_depth": 5,
+        "learning_rate": 0.05,
+        "n_estimators": 600,
+        "reg_lambda": 3.0
+      },
+      "macro": 0.8337454165407687,
+      "macro_std": 0.030527499751197965,
+      "boundary": 0.7762733452765385,
+      "drop_err": 0.0,
+      "time": 429.7017332909745
+    }
+  ],
+  "best_config": {
+    "max_depth": 6,
+    "learning_rate": 0.1,
+    "n_estimators": 600,
+    "min_child_weight": 3
+  },
+  "best_macro": 0.8390910408630745,
+  "stickiness": [
+    {
+      "alpha": 0.0,
+      "macro": 0.8390910408630745,
+      "boundary": 0.7858876078255836,
+      "drop_err": 0.0
+    },
+    {
+      "alpha": 0.5,
+      "macro": 0.8390936194199623,
+      "boundary": 0.7858019095126763,
+      "drop_err": 0.0
+    },
+    {
+      "alpha": 1.0,
+      "macro": 0.8401194840213506,
+      "boundary": 0.7897776439231933,
+      "drop_err": 0.0
+    },
+    {
+      "alpha": 2.0,
+      "macro": 0.839247171401788,
+      "boundary": 0.7870857613935826,
+      "drop_err": 0.0
+    },
+    {
+      "alpha": 5.0,
+      "macro": 0.8380995589922569,
+      "boundary": 0.7858785287285495,
+      "drop_err": 0.0
+    },
+    {
+      "alpha": 10.0,
+      "macro": 0.8373051064396624,
+      "boundary": 0.7831723522495819,
+      "drop_err": 0.0
+    }
+  ],
+  "best_alpha": 1.0
+}

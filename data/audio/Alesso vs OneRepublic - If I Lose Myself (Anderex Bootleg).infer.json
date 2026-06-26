@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "Alesso vs OneRepublic - If I Lose Myself (Anderex Bootleg).m4a",
+  "duration": 201.943,
+  "bpm": 160.0,
+  "downbeatOffset": 0.343,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 9.343,
+      "barCount": 6,
+      "msSinceStart": 9343
+    },
+    {
+      "phraseId": "verse",
+      "time": 55.843,
+      "barCount": 37,
+      "msSinceStart": 55843
+    },
+    {
+      "phraseId": "drop",
+      "time": 76.843,
+      "barCount": 51,
+      "msSinceStart": 76843
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 82.843,
+      "barCount": 55,
+      "msSinceStart": 82843
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 84.343,
+      "barCount": 56,
+      "msSinceStart": 84343
+    },
+    {
+      "phraseId": "drop",
+      "time": 108.343,
+      "barCount": 72,
+      "msSinceStart": 108343
+    },
+    {
+      "phraseId": "bridge",
+      "time": 115.843,
+      "barCount": 77,
+      "msSinceStart": 115843
+    },
+    {
+      "phraseId": "verse",
+      "time": 133.843,
+      "barCount": 89,
+      "msSinceStart": 133843
+    },
+    {
+      "phraseId": "lead",
+      "time": 153.343,
+      "barCount": 102,
+      "msSinceStart": 153343
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 157.843,
+      "barCount": 105,
+      "msSinceStart": 157843
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 159.343,
+      "barCount": 106,
+      "msSinceStart": 159343
+    },
+    {
+      "phraseId": "drop",
+      "time": 201.343,
+      "barCount": 134,
+      "msSinceStart": 201343
+    }
+  ]
+}

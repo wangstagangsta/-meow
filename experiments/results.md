@@ -630,3 +630,22 @@
 - **notes:** EXP-9 re-run on winning features (xgb 3.3.0 CPU)
 
 ---
+
+## TUNING (XGB grid + Viterbi stickiness)
+- Baseline (EXP-9v): macro 0.842, boundary 0.792
+- Best XGB config: {'max_depth': 6, 'learning_rate': 0.1, 'n_estimators': 600, 'min_child_weight': 3} -> macro 0.8391, boundary 0.7859
+- Best stickiness alpha=1.0: macro 0.8401, boundary 0.7898
+    grid {'max_depth': 6, 'learning_rate': 0.1, 'n_estimators': 300}: macro 0.8360±0.0338 boundary 0.7887
+    grid {'max_depth': 4, 'learning_rate': 0.05, 'n_estimators': 600}: macro 0.8332±0.0362 boundary 0.7827
+    grid {'max_depth': 6, 'learning_rate': 0.05, 'n_estimators': 600}: macro 0.8338±0.0304 boundary 0.7863
+    grid {'max_depth': 8, 'learning_rate': 0.05, 'n_estimators': 400}: macro 0.8341±0.0351 boundary 0.7844
+    grid {'max_depth': 6, 'learning_rate': 0.1, 'n_estimators': 600, 'min_child_weight': 3}: macro 0.8391±0.0308 boundary 0.7859
+    grid {'max_depth': 5, 'learning_rate': 0.05, 'n_estimators': 600, 'reg_lambda': 3.0}: macro 0.8337±0.0305 boundary 0.7763
+    stick a=0.0: macro 0.8391 boundary 0.7859
+    stick a=0.5: macro 0.8391 boundary 0.7858
+    stick a=1.0: macro 0.8401 boundary 0.7898
+    stick a=2.0: macro 0.8392 boundary 0.7871
+    stick a=5.0: macro 0.8381 boundary 0.7859
+    stick a=10.0: macro 0.8373 boundary 0.7832
+
+---

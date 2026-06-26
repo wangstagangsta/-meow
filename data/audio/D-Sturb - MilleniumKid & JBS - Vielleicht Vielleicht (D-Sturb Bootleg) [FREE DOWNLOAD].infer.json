@@ -1,0 +1,83 @@
+{
+  "version": 3,
+  "fileName": "D-Sturb - MilleniumKid & JBS - Vielleicht Vielleicht (D-Sturb Bootleg) [FREE DOWNLOAD].m4a",
+  "duration": 160.5469841269841,
+  "bpm": 160.0,
+  "downbeatOffset": 0.047,
+  "cueTime": 0,
+  "quantizeEnabled": true,
+  "phraseMarkers": [
+    {
+      "phraseId": "quiet",
+      "time": 6.047,
+      "barCount": 4,
+      "msSinceStart": 6047
+    },
+    {
+      "phraseId": "verse",
+      "time": 31.547,
+      "barCount": 21,
+      "msSinceStart": 31547
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 42.047,
+      "barCount": 28,
+      "msSinceStart": 42047
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 45.047,
+      "barCount": 30,
+      "msSinceStart": 45047
+    },
+    {
+      "phraseId": "drop",
+      "time": 69.047,
+      "barCount": 46,
+      "msSinceStart": 69047
+    },
+    {
+      "phraseId": "bridge",
+      "time": 76.547,
+      "barCount": 51,
+      "msSinceStart": 76547
+    },
+    {
+      "phraseId": "verse",
+      "time": 105.047,
+      "barCount": 70,
+      "msSinceStart": 105047
+    },
+    {
+      "phraseId": "lead",
+      "time": 117.047,
+      "barCount": 78,
+      "msSinceStart": 117047
+    },
+    {
+      "phraseId": "buildUp",
+      "time": 129.047,
+      "barCount": 86,
+      "msSinceStart": 129047
+    },
+    {
+      "phraseId": "preDropFill",
+      "time": 130.547,
+      "barCount": 87,
+      "msSinceStart": 130547
+    },
+    {
+      "phraseId": "drop",
+      "time": 154.547,
+      "barCount": 103,
+      "msSinceStart": 154547
+    },
+    {
+      "phraseId": "quiet",
+      "time": 159.047,
+      "barCount": 106,
+      "msSinceStart": 159047
+    }
+  ]
+}

@@ -9,39 +9,15 @@
   "phraseMarkers": [
     {
       "phraseId": "quiet",
-      "time": 7.263548387096774,
-      "barCount": 4,
-      "msSinceStart": 7264
+      "time": 4.166774193548387,
+      "barCount": 2,
+      "msSinceStart": 4167
     },
     {
       "phraseId": "verse",
-      "time": 52.166774193548385,
-      "barCount": 33,
-      "msSinceStart": 52167
-    },
-    {
-      "phraseId": "lead",
-      "time": 55.263548387096776,
-      "barCount": 35,
-      "msSinceStart": 55264
-    },
-    {
-      "phraseId": "bridge",
       "time": 56.81193548387097,
       "barCount": 36,
       "msSinceStart": 56812
-    },
-    {
-      "phraseId": "lead",
-      "time": 64.55387096774193,
-      "barCount": 41,
-      "msSinceStart": 64554
-    },
-    {
-      "phraseId": "bridge",
-      "time": 66.10225806451612,
-      "barCount": 42,
-      "msSinceStart": 66102
     },
     {
       "phraseId": "lead",
@@ -51,9 +27,9 @@
     },
     {
       "phraseId": "buildUp",
-      "time": 92.42483870967742,
-      "barCount": 59,
-      "msSinceStart": 92425
+      "time": 90.87645161290321,
+      "barCount": 58,
+      "msSinceStart": 90876
     },
     {
       "phraseId": "preDropFill",
@@ -63,9 +39,9 @@
     },
     {
       "phraseId": "drop",
-      "time": 118.7474193548387,
-      "barCount": 76,
-      "msSinceStart": 118747
+      "time": 120.29580645161289,
+      "barCount": 77,
+      "msSinceStart": 120296
     },
     {
       "phraseId": "bridge",
@@ -75,21 +51,15 @@
     },
     {
       "phraseId": "verse",
-      "time": 145.07,
-      "barCount": 93,
-      "msSinceStart": 145070
-    },
-    {
-      "phraseId": "bridge",
-      "time": 149.71516129032256,
-      "barCount": 96,
-      "msSinceStart": 149715
+      "time": 148.16677419354838,
+      "barCount": 95,
+      "msSinceStart": 148167
     },
     {
       "phraseId": "lead",
-      "time": 163.6506451612903,
-      "barCount": 105,
-      "msSinceStart": 163651
+      "time": 162.10225806451612,
+      "barCount": 104,
+      "msSinceStart": 162102
     },
     {
       "phraseId": "buildUp",
